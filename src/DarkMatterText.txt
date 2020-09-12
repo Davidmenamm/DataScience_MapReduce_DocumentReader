@@ -1,0 +1,14 @@
+When antimatter particles interact with matter particles, they annihilate each other and produce energy. This has led engineers to speculate that antimatter-powered spacecraft might be an efficient way to explore the universe.
+
+NASA cautions there is a huge catch with this idea: it takes about $100 billion to create a milligram of antimatter. While research can get by on a lot less antimatter, this is the minimum that would be needed for application. 
+
+"To be commercially viable, this price would have to drop by about a factor of 10,000," the agency wrote. Power generation creates another headache: "It costs far more energy to create antimatter than the energy one could get back from an antimatter reaction."
+
+But that hasn't stopped NASA and other groups from working to improve the technology to make antimatter spacecraft possible. In 2012, a representative from The Tauri Group told Space.com that it's possible that antimatter could be used about 40-60 years in the future.
+
+NASA created a 2010 report (with help from The Tauri Group and others) called "Technology Frontiers: Breakthrough Capabilities for Space Exploration," which detailed how a fusion spacecraft could work.
+
+Advertisement
+The design calls for pellets of deuterium and tritium (heavy hydrogen isotopes with one or two neutrons in their nuclei, unlike common hydrogen that has no neutrons). An antiproton beam would then be beamed into the pellets, which would bash against a layer of uranium embedded inside. 
+
+After the antiprotons strike the uranium, both would be destroyed and create fission products that would spark a fusion reaction. Properly directed, this could make a spacecraft move.
