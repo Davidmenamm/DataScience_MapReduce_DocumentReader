@@ -21,9 +21,8 @@ class KeyVal:
 # Class Map
 class Map:
     # Constructor
-    def __init__(self, sectionOfText, size):
+    def __init__(self, sectionOfText):
         self.sectionOfText = sectionOfText
-        self.size = size
 
     # Function to erase unwanted characters
     def unwantedChar(self, word):
@@ -58,6 +57,6 @@ class Map:
             # dictionary with object as key, to represent duplicate keys
             dict[KeyVal(word)] = 1
 
-        combineDict = self.combiner(dict)
+        #combineDict = self.combiner(dict)
 
-        return combineDict
+        return dict
