@@ -13,8 +13,12 @@ class Reduce:
     def __init__(self, dictGroupByKey):
         self.dictGroupByKey = dictGroupByKey
 
+    # Getter and Setter
+    def setDictGroupByKey(self, newDict):
+        self.dictGroupByKey = newDict
+
     # Function join all value list from keys, in one single int sum
-    def resume(self):
+    def reducerResume(self):
         dictResume = {}
         for k, v in self.dictGroupByKey.items():
             sumValues = sum(v)

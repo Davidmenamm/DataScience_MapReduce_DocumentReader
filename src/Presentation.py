@@ -18,7 +18,7 @@ coordinator = Coordinator()
 # Instantitate necesary Maps
 maps = coordinator.assignMaps()
 print('\n***** 1st Step: Map Output is: *****')
-print('\n***** Map Objects *****\n', maps)
+print('\n***** Number of Map Objects *****\n', len(maps))
 
 # Map dictionary outputs
 mapOutputs = coordinator.runMaps()
@@ -29,6 +29,22 @@ combOutputs = coordinator.applyCombiners(mapOutputs)
 print('\n***** Map Combiner Outputs *****\n\n', combOutputs)
 
 # 2ND STEP (Group By Key)
+groupByKeys = coordinator.groupByKey(combOutputs)
+print('\n***** 2nd Step: Group By Key:*****\n')
+print(groupByKeys)
+
+# 3RD STEP (Reduce)
+arrReducers = coordinator.createReducers()
+reducersDicts = coordinator.startReducers(groupByKeys, arrReducers)
+finalResume = coordinator.finalResume(reducersDicts)
+
+print('\n*****3rd Step: Reduce:*****\n')
+count = 1
+for dict in reducersDicts:
+    print(f'ReducerOutput {count}\n', dict)
+    count = count + 1
+
+print('\nFINAL RESUME\n', finalResume)
 
 
 # PREVIOUS ORGANIZATION
@@ -57,8 +73,7 @@ print('\n***** Map Combiner Outputs *****\n\n', combOutputs)
 # dictOutputs = [dict1, dict2]
 # group = GroupByKey(dictOutputs)
 # groupDict = group.orderMaps()
-# print('\n2nd Step: Group By Key:\n')
-# print(alphDict(groupDict))
+
 
 # 3RD STEP (Reduce)
 # reduce = Reduce(groupDict)
