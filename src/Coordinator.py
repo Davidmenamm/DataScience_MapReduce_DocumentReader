@@ -16,7 +16,7 @@ class Coordinator:
     # to contain necesary maps
     arrMaps = []
     numReducers = 0
-    numLines = 7
+    numLines = 2
 
     # Getter and Setter
     def getNumReducer(self):
@@ -37,9 +37,10 @@ class Coordinator:
     # Function to create and assign necesary maps reads from txt file
     def assignMaps(self):
         # open to read file
-        file1 = open(f'src\IncomingText.txt', 'r')
+        file1 = open(f'src\small.txt', 'r')
         # counter
-        count = 1
+        countLines = 1
+        countMaps = 1
         # to save necesary text section for each Map
         textSection = ''
 
@@ -48,19 +49,33 @@ class Coordinator:
             line = file1.readline()
             textSection = textSection + line
 
-            # Create new map for every 25 lines
-            if (count % self.numLines == 0):
+            # New map for every assigned num of lines
+            # Assing a new textfile to that Map
+            if (countLines % self.numLines == 0):
+                # write section to text file
+                f = open(f'src/MapsOutput/Map{countMaps}', 'w')
+                f.write(textSection)
+                print('NAME IS', f.name)
+                # create new Map object and pass the path
                 self.arrMaps.append(Map(textSection))
                 textSection = ''
-
             # Advance count
-            count += 1
+            countLines += 1
 
             # if line is empty, stop the reading
             if not line:
                 if textSection != '':
                     self.arrMaps.append(Map(textSection))
                 break
+
+        # In case not minimum maps created
+        mapLen = len(self.arrMaps)
+        if mapLen < 6:
+            size = 6 - mapLen
+            for num in range(size):
+                print(num+mapLen)
+                self.arrMaps.append()
+
         return self.arrMaps
 
     # Function to run maps

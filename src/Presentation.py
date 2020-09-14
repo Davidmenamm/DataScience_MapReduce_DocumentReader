@@ -47,36 +47,4 @@ for dict in reducersDicts:
 print('\nFINAL RESUME\n', finalResume)
 
 
-# PREVIOUS ORGANIZATION
-
-# Read Document Line by line an create necesary Maps
-# One new map for every 25 lines in the text
-# count = 0
-# textSection = ''
-
-# Maps
-# map1 = Map(testText1)
-# map2 = Map(testText2)
-# Dictionaries output of Maps
-# dict1 = map1.getDictionary()
-# dict2 = map2.getDictionary()
-
-# 1ST STEP (MAP)
-# print('\n1st Step: Map Output is:')
-
-# print('\nMap1:')
-# print(alphDict(dict1))
-# print('\nMap2:')
-# print(alphDict(dict2))
-
-# 2ND STEP (Group By Key)
-# dictOutputs = [dict1, dict2]
-# group = GroupByKey(dictOutputs)
-# groupDict = group.orderMaps()
-
-
-# 3RD STEP (Reduce)
-# reduce = Reduce(groupDict)
-# resume = reduce.resume()
-# print('\n3rd Step: Reduce:\n')
-# print(alphDict(resume))
+# Testing files prints
