@@ -25,11 +25,11 @@ mapOutputs = coordinator.runMaps()
 print('\n***** Map Outputs *****\n', mapOutputs)
 
 # Apply combinators to maps
-combOutputs = coordinator.applyCombiners(mapOutputs)
-print('\n***** Map Combiner Outputs *****\n\n', combOutputs)
+# combOutputs = coordinator.applyCombiners(mapOutputs)
+# print('\n***** Map Combiner Outputs *****\n\n', combOutputs)
 
 # 2ND STEP (Group By Key)
-groupByKeys = coordinator.groupByKey(combOutputs)
+groupByKeys = coordinator.groupByKey(mapOutputs)
 print('\n***** 2nd Step: Group By Key:*****\n')
 print(groupByKeys)
 
