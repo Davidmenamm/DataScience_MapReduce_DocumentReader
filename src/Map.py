@@ -5,6 +5,7 @@
 # Imports
 from collections import defaultdict
 from utils import pickleWrite
+import threading
 
 # Class Key-value-pair for allowing duplicate keys
 
@@ -21,18 +22,25 @@ class KeyVal:
 # Class Map
 
 
-class Map:
+class Map (threading.Thread):
     # Static variable to manage current map number
     mapNumber = None
     mapPath = None
 
     # Constructor
-    def __init__(self, filePath,):
+
+    def __init__(self, filePath, threadLock):
+        threading.Thread.__init__(self)
         self.filePath = filePath
+        self.outputDict = None
+        self.threadLock = threadLock
 
     # Getter and setter
     def getMapPath(self):
         return self.mapPath
+
+    def getOutputDict(self):
+        return self.outputDict
 
     # Function to erase unwanted characters
     def unwantedChar(self, word):
@@ -61,9 +69,10 @@ class Map:
         return combineDict
 
     # Funtion to produce the key-values for Map Output
-    def runMap(self):
+    def run(self):
+        self.threadLock.acquire()
+        # Critical Section
         dict = {}
-
         # read file line by line, store all words in array
         words = []
         f = open(self.filePath, 'r')
@@ -72,18 +81,16 @@ class Map:
             if not line:
                 break
             words.extend(line.split())
-
         for word in words:
             word = self.unwantedChar(word).lower()
             # dictionary with object as key, to represent duplicate keys
             dict[KeyVal(word)] = 1
-
         # combiner
-        combineDict = self.combiner(dict)
-
+        self.outputDict = self.combiner(dict)
         # write to pickle file
         self.mapPath = f'src/(c)MapsOutput/Map_{Map.mapNumber}.pkl'
-        pickleWrite(combineDict, self.mapPath)
+        pickleWrite(self.outputDict, self.mapPath)
         Map.mapNumber = Map.mapNumber + 1  # next map number
 
-        return combineDict
+        # Free lock, for next thread to run
+        self.threadLock.release()

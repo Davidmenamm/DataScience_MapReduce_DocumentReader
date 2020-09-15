@@ -1,1 +1,1 @@
-{'shuolders': 3, 'contemptuosly': 3, 'turning': 3, 'road': 3, 'speek': 3}
+<bound method Reduce.getDictResume of <Reduce(Thread-13, stopped 22048)>>

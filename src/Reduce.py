@@ -5,18 +5,23 @@
 # Imports
 from collections import defaultdict
 from utils import pickleWrite
+import threading
 
 # Class Reduce
 
 
-class Reduce:
+class Reduce (threading.Thread):
     # Num of reducer
-    numReducer = None
+    reduceNumber = None
     outputPath = f'src/(e)ReducersOutput/Reducer_(REDUCER_NUMBER).pkl'
 
     # Constructor
-    def __init__(self, dictGroupByKey):
+
+    def __init__(self, dictGroupByKey, threadLock):
+        threading.Thread.__init__(self)
         self.dictGroupByKey = dictGroupByKey
+        self.threadLock = threadLock
+        self.dictResume = None
 
     # Getter and Setter
     def setDictGroupByKey(self, newDict):
@@ -25,18 +30,19 @@ class Reduce:
     def getOutputPath(self):
         return self.outputPath
 
+    def getDictResume(self):
+        return self.dictResume
+
         # Function join all value list from keys, in one single int sum
 
-    def reducerResume(self, reducerNum):
-        dictResume = {}
+    def run(self):
+        self.dictResume = {}
         for k, v in self.dictGroupByKey.items():
             sumValues = sum(v)
-            dictResume[k] = sumValues
+            self.dictResume[k] = sumValues
 
         # save to pickle file
-        Reduce.numReducer = reducerNum
         self.outputPath = self.outputPath.replace(
-            f'(REDUCER_NUMBER)', f'{Reduce.numReducer}')
-        pickleWrite(dictResume, self.outputPath)
-
-        return dictResume
+            f'(REDUCER_NUMBER)', f'{Reduce.reduceNumber}')
+        Reduce.reduceNumber = Reduce.reduceNumber + 1  # next map number
+        pickleWrite(self.dictResume, self.outputPath)

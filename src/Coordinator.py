@@ -8,6 +8,7 @@ from GroupByKey import GroupByKey
 from Reduce import Reduce
 from collections import defaultdict
 from utils import pickleRead, printDefaultDict, objToFile
+import threading
 
 # Class Coordinator
 
@@ -18,7 +19,7 @@ class Coordinator:
     arrMaps = []
     arrReducers = []
     numReducers = 0
-    numLines = 25
+    numLines = 100
     mapOutputPaths = []
     groupOutputPath = None
     reduOutputPaths = []
@@ -27,6 +28,7 @@ class Coordinator:
     # constructor
     def __init__(self):
         Map.mapNumber = 1  # Restart Map Number
+        Reduce.reduceNumber = 1  # Restart Reduce Number
 
     # Getter and Setter
     def getNumReducer(self):
@@ -54,6 +56,9 @@ class Coordinator:
         # to save necesary text section for each Map
         textSection = ''
 
+        # Lock to synchronize threads
+        threadLock = threading.Lock()
+
         while True:
             # Add a line
             line = file1.readline()
@@ -68,7 +73,7 @@ class Coordinator:
                 f.close()
                 countMaps = countMaps + 1
                 # create new Map object and pass the path
-                self.arrMaps.append(Map(f.name))
+                self.arrMaps.append(Map(f.name, threadLock))
                 textSection = ''
             # Advance count
             countLines += 1
@@ -80,16 +85,16 @@ class Coordinator:
                     f = open(f'src/(b)DividedInput/Input_{countMaps}.txt', 'w')
                     f.write(textSection)
                     f.close()
-                    self.arrMaps.append(Map(f.name))
+                    self.arrMaps.append(Map(f.name, threadLock))
                 break
 
         # In case not minimum maps created
-        mapLen = len(self.arrMaps)
-        if mapLen < 6:
-            size = 6 - mapLen
-            for num in range(size):
-                # print(num+mapLen)
-                self.arrMaps.append()
+        # mapLen = len(self.arrMaps)
+        # if mapLen < 6:
+        #     size = 6 - mapLen
+        #     for num in range(size):
+        #         # print(num+mapLen)
+        #         self.arrMaps.append()
 
     # Function to apply combiners to map outputs
     # def applyCombiners(self, arrMapOutputs):
@@ -108,11 +113,17 @@ class Coordinator:
         mapOutputs = []
         count = 1
         for map in self.arrMaps:
-            mapOutputs.append(map.runMap())
+            map.start()
+            map.join()
+            mapOutputs.append(map.getOutputDict())
             self.mapOutputPaths.append(map.getMapPath())
+
             # print to file to visualize
             objToFile(mapOutputs, f'src/(c)MapsOutput/Map_{count}.txt')
             count = count + 1
+        # Wait for map threads to finish
+        # for mapThread in self.arrMaps:
+        #     mapThread.join()
 
     # Function to Group Map output by key, in one new dictionary
     def groupByKey(self):
@@ -139,16 +150,18 @@ class Coordinator:
     def createReducers(self):
         relation = 3  # Relation of Map and Reduce number
 
+        # Lock to synchronize threads
+        threadLock = threading.Lock()
+
         # set the number of reducers needed
         # avoid dividing by zero error
-
         if relation <= len(self.arrMaps):
             self.numReducers = len(
                 self.arrMaps)//relation + 1  # floor division
         else:
             self.numReducers = 2  # 2 reducers minimum
         for num in range(self.numReducers):
-            self.arrReducers.append(Reduce(None))
+            self.arrReducers.append(Reduce(None, threadLock))
 
     # Function to Divide the groupKeys into the reducers
     def startReducers(self):
@@ -182,7 +195,9 @@ class Coordinator:
                 # cut last section of list and append it
                 dictSection = dict(listOfDict[startCut:])
                 currentReducer.setDictGroupByKey(dictSection)
-                dictReducer = currentReducer.reducerResume(count)
+                currentReducer.start()
+                currentReducer.join()
+                dictReducer = currentReducer.getDictResume
                 finalDicts.append(dictReducer)
                 # Get output file path
                 self.reduOutputPaths.append(currentReducer.getOutputPath())
@@ -193,7 +208,9 @@ class Coordinator:
                 # cut normal list sections and append
                 dictSection = dict(listOfDict[startCut:endCut])
                 currentReducer.setDictGroupByKey(dictSection)
-                dictReducer = currentReducer.reducerResume(count)
+                currentReducer.start()
+                currentReducer.join()
+                dictReducer = currentReducer.getDictResume
                 finalDicts.append(dictReducer)
                 # Get output file path
                 self.reduOutputPaths.append(currentReducer.getOutputPath())
