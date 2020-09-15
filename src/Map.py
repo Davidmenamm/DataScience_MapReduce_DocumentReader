@@ -36,12 +36,17 @@ class Map:
 
     # Function to erase unwanted characters
     def unwantedChar(self, word):
-        charList = ['\\', '`', '*', '_', '{', '}', '[', ']',
-                    '!', '$', '\'', '0', '1', '2', '3', '4',
+        charList = ['\\', '`', '*', '_', '{', '}', '[', ']', '?', '¿', ''
+                    '(', ')', '>', '#', '+', '-', '.', ',', ':', ';', '%',
+                    '!', '¡', '\'', '\"', '$', '0', '1', '2', '3', '4',
                     '5', '6', '7', '8', '9']
+
         for ch in charList:
+            #self.tests += f'{ch}:{word}\n'
             if ch in word:
                 word = word.replace(ch, '')
+                #self.tests += f'****PASSED***:{word}\n'
+
         return word
 
     # Function to represent a combiner, to aid Map efficiency
@@ -72,15 +77,6 @@ class Map:
             word = self.unwantedChar(word).lower()
             # dictionary with object as key, to represent duplicate keys
             dict[KeyVal(word)] = 1
-
-        # Test file print
-        stringTest = ''
-        for word in words:
-            stringTest += f'{word}  '
-
-        f = open(f'src/test.txt', 'w')
-        f.write(stringTest)
-        f.close()
 
         # combiner
         combineDict = self.combiner(dict)

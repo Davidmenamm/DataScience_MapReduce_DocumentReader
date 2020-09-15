@@ -16,11 +16,12 @@ class Coordinator:
     # Atributes
     # to contain necesary maps
     arrMaps = []
+    arrReducers = []
     numReducers = 0
     numLines = 25
     mapOutputPaths = []
     groupOutputPath = None
-    redOutputPaths = []
+    reduOutputPaths = []
     finalPath = f'src/FinalOutput/final.txt'
 
     # constructor
@@ -87,10 +88,8 @@ class Coordinator:
         if mapLen < 6:
             size = 6 - mapLen
             for num in range(size):
-                print(num+mapLen)
+                # print(num+mapLen)
                 self.arrMaps.append()
-
-        return self.arrMaps
 
     # Function to apply combiners to map outputs
     # def applyCombiners(self, arrMapOutputs):
@@ -115,10 +114,8 @@ class Coordinator:
             objToFile(mapOutputs, f'src/MapsOutput/Map_{count}.txt')
             count = count + 1
 
-        return mapOutputs
-
     # Function to Group Map output by key, in one new dictionary
-    def groupByKey(self, arrMapsOutput):
+    def groupByKey(self):
         outputMaps = []
 
         # Read pickles and store in array all map output dictionaries
@@ -136,10 +133,9 @@ class Coordinator:
         # print to file to visualize
         objToFile(groupDict, f'src/GrpByKeyOutput/GroupByKey.txt')
 
-        return groupDict
-
     # Function creates reducer objects according to number of Maps
     # Reducer objects number is 1/3 of Map objects number
+
     def createReducers(self):
         relation = 3  # Relation of Map and Reduce number
 
@@ -151,14 +147,11 @@ class Coordinator:
                 self.arrMaps)//relation + 1  # floor division
         else:
             self.numReducers = 2  # 2 reducers minimum
-
-        arrReducers = []
         for num in range(self.numReducers):
-            arrReducers.append(Reduce(None))
-        return arrReducers
+            self.arrReducers.append(Reduce(None))
 
     # Function to Divide the groupKeys into the reducers
-    def startReducers(self, dictGroup, reducersArr):
+    def startReducers(self):
         finalDicts = []
 
         # Get pickle object from file
@@ -182,7 +175,7 @@ class Coordinator:
             endCut = count*(sectionLen-1)
 
             # current reducer to access
-            currentReducer = reducersArr[count-1]
+            currentReducer = self.arrReducers[count-1]
 
             # run the section cuttings in the array
             if idx == rangeSize-1:
@@ -192,7 +185,7 @@ class Coordinator:
                 dictReducer = currentReducer.reducerResume(count)
                 finalDicts.append(dictReducer)
                 # Get output file path
-                self.redOutputPaths.append(currentReducer.getOutputPath())
+                self.reduOutputPaths.append(currentReducer.getOutputPath())
                 # print to file to visualize
                 objToFile(
                     dictReducer, f'src/ReducersOutput/Reducer_{count}.txt')
@@ -203,32 +196,28 @@ class Coordinator:
                 dictReducer = currentReducer.reducerResume(count)
                 finalDicts.append(dictReducer)
                 # Get output file path
-                self.redOutputPaths.append(currentReducer.getOutputPath())
+                self.reduOutputPaths.append(currentReducer.getOutputPath())
                 # print to file to visualize
                 objToFile(
                     dictReducer, f'src/ReducersOutput/Reducer_{count}.txt')
 
             count = count + 1
 
-        return finalDicts
-
     # Function to produce the final output of all Reduce
-    def finalResume(self, arrReducerOutputs):
+    def finalResume(self):
         finalDict = defaultdict(int)
         reduceOutputs = []
 
         # Read from pickle files
-        for path in self.redOutputPaths:
+        for path in self.reduOutputPaths:
             reduceDict = pickleRead(path)
             reduceOutputs.append(reduceDict)
 
         # Resume all Reduce
-        for dictOutput in arrReducerOutputs:
+        for dictOutput in reduceOutputs:
             items = dictOutput.items()
             for k, v in items:
                 finalDict[k] += v
 
         # Print final Result to txt file
         printDefaultDict(finalDict, self.finalPath)
-
-        return finalDict

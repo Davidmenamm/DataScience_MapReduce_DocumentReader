@@ -1,1 +1,1 @@
-{'road.': 4, 'speek': 4, 'way': 4, 'home.': 4}
+{'shuolders': 4, 'contemptuosly': 4, 'turning': 4, 'road': 4, 'speek': 4}
