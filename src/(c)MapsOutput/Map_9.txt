@@ -845,15 +845,15 @@
 1, 'peasant': 1, 'laborer': 1, 'brings': 1, 'farthing': 1, 'earned': 1, 'horny':
 1, 'hand': 1, 'wringing': 1, 'taxgaterer': 1, 'bleed': 1, 'iosif': 1}),
 defaultdict(<class 'int'>, {'father': 4, 'paissy': 1, 'kept': 3, 'obsinately':
-1, 'silent': 3, 'miusov': 1, 'rushed': 1, 'from': 6, 'the': 31, 'room': 1,
-'and': 24, 'kalgonov': 1, 'afetr': 1, 'him': 9, 'well': 2, 'i': 14, 'will': 10,
-'follow': 3, 'pyotr': 1, 'alexandrovitch': 1, 'am': 5, 'not': 6, 'coming': 1,
-'to': 19, 'see': 2, 'you': 30, 'again': 7, 'may': 1, 'beg': 1, 'me': 12, 'on':
+1, 'silent': 3, 'miusov': 1, 'rushed': 1, 'from': 6, 'the': 29, 'room': 1,
+'and': 22, 'kalgonov': 1, 'afetr': 1, 'him': 9, 'well': 2, 'i': 14, 'will': 10,
+'follow': 3, 'pyotr': 1, 'alexandrovitch': 1, 'am': 5, 'not': 5, 'coming': 1,
+'to': 19, 'see': 2, 'you': 30, 'again': 6, 'may': 1, 'beg': 1, 'me': 12, 'on':
 8, 'your': 4, 'knees': 1, 'shant': 1, 'come': 3, 'sent': 2, 'a': 17, 'thousand':
 2, 'roubles': 1, 'so': 5, 'have': 4, 'begun': 1, 'keep': 1, 'eye': 1, 'he': 20,
 'no': 7, 'ill': 1, 'say': 3, 'more': 1, 'taking': 1, 'my': 7, 'revenge': 1,
-'for': 7, 'youth': 1, 'all': 4, 'humillition': 1, 'endured': 1, 'thumped': 1,
-'table': 1, 'with': 6, 'his': 12, 'fist': 1, 'in': 13, 'paroxysm': 1, 'of': 15,
+'for': 7, 'youth': 1, 'all': 3, 'humillition': 1, 'endured': 1, 'thumped': 1,
+'table': 1, 'with': 6, 'his': 11, 'fist': 1, 'in': 13, 'paroxysm': 1, 'of': 15,
 'simulated': 2, 'feelling': 1, 'this': 4, 'monastery': 4, 'has': 2, 'played': 2,
 'great': 2, 'part': 2, 'life': 1, 'it': 17, 'cost': 1, 'many': 1, 'bitter': 2,
 'tears': 1, 'used': 1, 'set': 1, 'wife': 1, 'crazy': 1, 'one': 3, 'against': 1,
@@ -862,9 +862,9 @@ defaultdict(<class 'int'>, {'father': 4, 'paissy': 1, 'kept': 3, 'obsinately':
 'liberalizm': 1, 'steamers': 1, 'reilways': 1, 'neither': 1, 'nor': 2,
 'hundred': 2, 'ruobles': 1, 'farthings': 1, 'get': 3, 'out': 3, 'must': 2, 'be':
 5, 'noted': 1, 'that': 9, 'our': 3, 'never': 2, 'had': 5, 'any': 1, 'liffe': 1,
-'shed': 1, 'tear': 2, 'owing': 1, 'but': 9, 'was': 13, 'carried': 1, 'away': 7,
+'shed': 1, 'tear': 2, 'owing': 1, 'but': 9, 'was': 13, 'carried': 1, 'away': 6,
 'by': 5, 'emotion': 1, 'momant': 1, 'allmost': 2, 'beliefing': 1, 'himself': 2,
-'touched': 1, 'almost': 1, 'weeping': 1, 'at': 9, 'very': 1, 'instant': 1,
+'touched': 1, 'almost': 1, 'weeping': 1, 'at': 8, 'very': 1, 'instant': 1,
 'felt': 1, 'time': 1, 'draw': 1, 'back': 1, 'superior': 1, 'bowed': 1, 'head':
 1, 'malicious': 1, 'lie': 3, 'spoke': 1, 'impressively': 1, 'writen': 1, 'bear':
 1, 'circumspecly': 1, 'gladly': 1, 'dishonor': 1, 'cometh': 1, 'upon': 1,
@@ -872,14 +872,14 @@ defaultdict(<class 'int'>, {'father': 4, 'paissy': 1, 'kept': 3, 'obsinately':
 'hath': 1, 'dishonored': 1, 'we': 3, 'tut': 3, 'bethinking': 1, 'thyself': 1,
 'rest': 2, 'rigmarole': 1, 'bethink': 1, 'yourselfs': 1, 'go': 1, 'take': 3,
 'son': 3, 'alexey': 2, 'here': 1, 'ever': 1, 'parental': 1, 'authority': 1,
-'ivan': 10, 'fyodorovitch': 1, 'most': 2, 'dutiful': 1, 'permit': 1, 'order': 1,
+'ivan': 9, 'fyodorovitch': 1, 'most': 2, 'dutiful': 1, 'permit': 1, 'order': 1,
 'von': 8, 'sohn': 7, 'what': 4, 'stay': 1, 'now': 5, 'town': 1, 'fun': 2,
 'there': 3, 'only': 1, 'short': 1, 'verst': 1, 'instead': 1, 'lenten': 1, 'oil':
 1, 'give': 1, 'suckingpig': 1, 'kasha': 1, 'dinner': 2, 'some': 2, 'brendy': 1,
 'liqueur': 1, 'ive': 1, 'cloudberry': 1, 'wyne': 1, 'hey': 1, 'dont': 1, 'lose':
 1, 'chance': 1, 'went': 1, 'shuoting': 1, 'gesticulating': 1, 'moment': 1,
 'rakitin': 2, 'saw': 2, 'pointed': 1, 'alyosha': 5, 'shouted': 2, 'far': 1,
-'off': 1, 'cacthing': 1, 'sight': 1, 'home': 3, 'today': 1, 'good': 1, 'bring':
+'off': 1, 'cacthing': 1, 'sight': 1, 'home': 2, 'today': 1, 'good': 1, 'bring':
 1, 'pilow': 1, 'matress': 1, 'leeve': 1, 'trace': 1, 'behind': 1, 'stood': 1,
 'rooted': 1, 'spot': 1, 'wacthing': 1, 'scene': 2, 'silense': 1, 'meanwhile': 1,
 'fyodor': 6, 'pavlovitch': 6, 'got': 2, 'into': 1, 'carriege': 1, 'grim': 1,
@@ -892,7 +892,7 @@ defaultdict(<class 'int'>, {'father': 4, 'paissy': 1, 'kept': 3, 'obsinately':
 'left': 1, 'still': 2, 'resting': 1, 'clucthing': 1, 'tryng': 1, 'jump': 3,
 'going': 1, '': 1, 'shouting': 1, 'laughing': 1, 'thin': 1, 'mirthfull': 1,
 'laugh': 1, 'look': 1, 'reckless': 1, 'glee': 1, 'face': 1, 'cried': 1,
-'delihted': 1, 'did': 6, 'waz': 1, 'iz': 1, 'risen': 1, 'dead': 1, 'why': 5,
+'delihted': 1, 'did': 5, 'waz': 1, 'iz': 1, 'risen': 1, 'dead': 1, 'why': 5,
 'how': 2, 'yourself': 1, 'could': 1, 'brazenfaced': 1, 'fellow': 2, 'myself': 1,
 'surprized': 1, 'brother': 1, 'let': 1, 'pass': 1, 'can': 1, 'somwhere': 1,
 'feet': 2, 'or': 1, 'perch': 1, 'box': 2, 'coachman': 2, 'skipp': 1, 'taken': 1,
@@ -905,5 +905,4 @@ defaultdict(<class 'int'>, {'father': 4, 'paissy': 1, 'kept': 3, 'obsinately':
 1, 'sullenly': 1, 'drop': 1, 'brandy': 1, 'would': 1, 'nice': 1, 'observd': 1,
 'sententiosly': 1, 'repsonse': 1, 'shall': 2, 'when': 1, 'waited': 1, 'anohter':
 1, 'minites': 1, 'though': 1, 'dislike': 1, 'much': 1, 'honored': 1, 'karl': 1,
-'moor': 1, 'shruged': 1, 'shuolders': 1, 'contemptuosly': 1, 'turning': 1,
-'stared': 1, 'road': 1, 'they': 1, 'speek': 1, 'way': 1})]
+'moor': 1})]

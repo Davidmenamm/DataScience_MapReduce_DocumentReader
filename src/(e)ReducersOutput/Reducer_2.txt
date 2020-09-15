@@ -7,13 +7,13 @@
 'place': 8, 'utterred': 4, 'last': 16, 'word': 20, 'terade': 4, 'completely': 4,
 'recovered': 4, 'selfcomplecency': 4, 'traces': 4, 'former': 4, 'iritation': 4,
 'disappaered': 4, 'fuly': 4, 'sincerelly': 4, 'loved': 4, 'humanity': 4,
-'again': 40, 'listened': 4, 'diginity': 4, 'slight': 4, 'bend': 4, 'head': 12,
+'again': 39, 'listened': 4, 'diginity': 4, 'slight': 4, 'bend': 4, 'head': 12,
 'replied': 4, 'sincerly': 4, 'deplore': 4, 'absence': 4, 'perhaps': 12, 'our':
 24, 'might': 20, 'learnt': 4, 'like': 12, 'us': 12, 'pray': 4, 'seated': 4,
 'gentlemen': 8, 'before': 16, 'holly': 4, 'image': 4, 'say': 28, 'grace': 4,
 'aloud': 20, 'bent': 4, 'their': 4, 'heads': 4, 'reverently': 8, 'clasped': 4,
 'hands': 4, 'peculier': 4, 'fervor': 4, 'played': 20, 'prank': 4, 'noted': 8,
-'realy': 4, 'meant': 4, 'go': 28, 'home': 20, 'really': 8, 'imposibility': 4,
+'realy': 4, 'meant': 4, 'go': 28, 'home': 19, 'really': 8, 'imposibility': 4,
 'going': 8, 'dine': 4, 'happenned': 4, 'after': 8, 'disgraceful': 8, 'behavoir':
 4, 'elders': 24, 'very': 12, 'unseemly': 4, 'yet': 8, 'hiscreaking': 4,
 'carriage': 12, 'hardly': 8, 'brought': 8, 'hotel': 4, 'sudddenly': 4, 'stoped':
@@ -34,7 +34,7 @@
 'score': 4, 'sometimes': 8, 'appeered': 8, 'prayer': 8, 'moving': 4, 'standing':
 4, 'doorway': 4, 'scanned': 4, 'company': 4, 'laughing': 8, 'prolonged': 4,
 'impudent': 4, 'malicius': 8, 'chuckle': 4, 'looked': 4, 'boldly': 4, 'thought':
-4, 'gone': 4, 'cried': 28, 'wholle': 4, 'everyone': 12, 'stared': 8, 'withot':
+4, 'gone': 4, 'cried': 28, 'wholle': 4, 'everyone': 12, 'stared': 7, 'withot':
 4, 'someting': 4, 'revolting': 4, 'grotescue': 4, 'scandalous': 4, 'happen': 4,
 'passed': 4, 'immeditaely': 4, 'from': 44, 'benevolen': 4, 'frame': 4, 'mind':
 12, 'savage': 4, 'feelings': 4, 'subsided': 4, 'died': 8, 'down': 12, 'heart':

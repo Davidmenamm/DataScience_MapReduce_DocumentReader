@@ -37,7 +37,7 @@ def objToFile(obj, path):
 
 # Print to file default dict in an ordered manner
 def printDefaultDict(defaultDict, fileName):
-    f = open(f'src/FinalOutput/final.txt', 'w')
+    f = open(f'src/(f)FinalOutput/final.txt', 'w')
     result = ''
     count = 1
     for k, v in defaultDict.items():

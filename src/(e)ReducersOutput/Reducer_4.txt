@@ -1,0 +1,1 @@
+{'shuolders': 3, 'contemptuosly': 3, 'turning': 3, 'road': 3, 'speek': 3}

@@ -22,7 +22,7 @@ class Coordinator:
     mapOutputPaths = []
     groupOutputPath = None
     reduOutputPaths = []
-    finalPath = f'src/FinalOutput/final.txt'
+    finalPath = f'src/(f)FinalOutput/final.txt'
 
     # constructor
     def __init__(self):
@@ -47,7 +47,7 @@ class Coordinator:
     # Function to create and assign necesary maps reads from txt file
     def assignMaps(self):
         # open to read file
-        file1 = open(f'src\IncomingText.txt', 'r')
+        file1 = open(f'src\(a)InitialInput\IncomingText.txt', 'r')
         # counter
         countLines = 1
         countMaps = 1
@@ -63,7 +63,7 @@ class Coordinator:
             # Assing a new textfile to that Map
             if (countLines % self.numLines == 0):
                 # write section to text file
-                f = open(f'src/Input/Input_{countMaps}.txt', 'w')
+                f = open(f'src/(b)DividedInput/Input_{countMaps}.txt', 'w')
                 f.write(textSection)
                 f.close()
                 countMaps = countMaps + 1
@@ -77,7 +77,7 @@ class Coordinator:
             if not line:
                 if textSection != '':
                     # write section to text file
-                    f = open(f'src/Input/Input_{countMaps}.txt', 'w')
+                    f = open(f'src/(b)DividedInput/Input_{countMaps}.txt', 'w')
                     f.write(textSection)
                     f.close()
                     self.arrMaps.append(Map(f.name))
@@ -111,7 +111,7 @@ class Coordinator:
             mapOutputs.append(map.runMap())
             self.mapOutputPaths.append(map.getMapPath())
             # print to file to visualize
-            objToFile(mapOutputs, f'src/MapsOutput/Map_{count}.txt')
+            objToFile(mapOutputs, f'src/(c)MapsOutput/Map_{count}.txt')
             count = count + 1
 
     # Function to Group Map output by key, in one new dictionary
@@ -131,7 +131,7 @@ class Coordinator:
         self.groupOutputPath = group.getOutputPath()
 
         # print to file to visualize
-        objToFile(groupDict, f'src/GrpByKeyOutput/GroupByKey.txt')
+        objToFile(groupDict, f'src/(d)GrpByKeyOutput/GroupByKey.txt')
 
     # Function creates reducer objects according to number of Maps
     # Reducer objects number is 1/3 of Map objects number
@@ -188,7 +188,7 @@ class Coordinator:
                 self.reduOutputPaths.append(currentReducer.getOutputPath())
                 # print to file to visualize
                 objToFile(
-                    dictReducer, f'src/ReducersOutput/Reducer_{count}.txt')
+                    dictReducer, f'src/(e)ReducersOutput/Reducer_{count}.txt')
             else:
                 # cut normal list sections and append
                 dictSection = dict(listOfDict[startCut:endCut])
@@ -199,7 +199,7 @@ class Coordinator:
                 self.reduOutputPaths.append(currentReducer.getOutputPath())
                 # print to file to visualize
                 objToFile(
-                    dictReducer, f'src/ReducersOutput/Reducer_{count}.txt')
+                    dictReducer, f'src/(e)ReducersOutput/Reducer_{count}.txt')
 
             count = count + 1
 

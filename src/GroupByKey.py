@@ -35,7 +35,7 @@ class GroupByKey:
             joinDicts[k].append(v)
 
         # Save to pickle file
-        self.outputPath = f'src/GrpByKeyOutput/GroupByKey.pkl'
+        self.outputPath = f'src/(d)GrpByKeyOutput/GroupByKey.pkl'
         pickleWrite(joinDicts, self.outputPath)
 
         return joinDicts

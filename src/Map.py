@@ -82,7 +82,7 @@ class Map:
         combineDict = self.combiner(dict)
 
         # write to pickle file
-        self.mapPath = f'src/MapsOutput/Map_{Map.mapNumber}.pkl'
+        self.mapPath = f'src/(c)MapsOutput/Map_{Map.mapNumber}.pkl'
         pickleWrite(combineDict, self.mapPath)
         Map.mapNumber = Map.mapNumber + 1  # next map number
 

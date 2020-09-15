@@ -12,7 +12,7 @@ from utils import pickleWrite
 class Reduce:
     # Num of reducer
     numReducer = None
-    outputPath = f'src/ReducersOutput/Reducer_(REDUCER_NUMBER).pkl'
+    outputPath = f'src/(e)ReducersOutput/Reducer_(REDUCER_NUMBER).pkl'
 
     # Constructor
     def __init__(self, dictGroupByKey):

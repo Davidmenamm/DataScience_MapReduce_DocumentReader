@@ -2,7 +2,7 @@
 'lies': 8, 'falen': 4, 'lie': 16, 'bit': 12, 'get': 16, 'holy': 12, 'indignent':
 4, 'confession': 12, 'sacrament': 8, 'bow': 8, 'kneal': 4, 'confess': 12, 'can':
 16, 'ordained': 4, 'fathers': 32, 'sercet': 4, 'mystery': 4, 'explain': 4,
-'did': 32, 'proper': 4, 'talk': 8, 'scandal': 4, 'along': 4, 'flagellants': 4,
+'did': 31, 'proper': 4, 'talk': 8, 'scandal': 4, 'along': 4, 'flagellants': 4,
 'dare': 4, 'att': 4, 'first': 4, 'opportunity': 4, 'shall': 16, 'write': 4,
 'synod': 4, 'note': 4, 'whree': 4, 'weak': 4, 'spot': 8, 'rumors': 4,
 'archbishop': 4, 'regarding': 4, 'others': 4, 'instutition': 4, 'existed': 4,
@@ -60,4 +60,4 @@
 'looking': 4, 'askance': 4, 'busines': 4, 'urged': 4, 'approvved': 4, 'angry':
 4, 'youve': 4, 'talked': 4, 'rot': 4, 'snaped': 4, 'sullenly': 4, 'brandy': 4,
 'nice': 4, 'observd': 4, 'sententiosly': 4, 'repsonse': 4, 'waited': 4,
-'anohter': 4, 'minites': 4, 'dislike': 4, 'karl': 4, 'moor': 4, 'shruged': 4}
+'anohter': 4, 'minites': 4, 'dislike': 4, 'karl': 4, 'moor': 4, 'shruged': 3}
