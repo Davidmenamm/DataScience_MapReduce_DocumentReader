@@ -1,0 +1,1019 @@
+[defaultdict(<class 'int'>, {'miusov,': 4, 'as': 7, 'a': 23, 'man': 3, 'of': 35,
+'breeding': 1, 'and': 67, 'deilcacy,': 1, 'could': 5, 'not': 13, 'but': 13,
+'feel': 2, 'some': 2, 'inwrd': 1, 'qualms,': 1, 'when': 6, 'he': 68, 'reached':
+1, 'the': 85, 'father': 17, 'superiors': 3, 'with': 19, 'ivan:': 1, 'felt': 7,
+'ashamed': 2, 'havin': 1, 'lost': 1, 'his': 32, 'temper.': 2, 'that': 25,
+'ought': 1, 'to': 51, 'have': 8, 'disdaimed': 1, 'despicable': 1, 'wretch,': 1,
+'fyodor': 5, 'pavlovitch,': 2, 'too': 1, 'much': 4, 'been': 5, 'upset': 1, 'by':
+4, 'him': 8, 'in': 35, 'zossimas': 2, 'cell,': 1, 'so': 8, 'forgotten': 1,
+'himself.': 2, '"teh': 1, 'monks': 2, 'were': 11, 'blame,': 2, 'any': 1,
+'case,"': 1, 'reflceted,': 1, 'on': 5, 'steps.': 1, '"and': 1, 'if': 4,
+'theyre': 1, 'decent': 1, 'people': 2, 'here': 2, '(and': 1, 'superior,': 2,
+'i': 26, 'understand,': 1, 'is': 12, 'nobleman)': 1, 'why': 2, 'be': 8,
+'friendly': 1, 'courteous': 1, 'withthem?': 1, 'wont': 2, 'argue,': 1, 'ill': 2,
+'fall': 2, 'everything,': 1, 'win': 1, 'them': 6, 'politness,': 1, 'show': 2,
+'ive': 1, 'nothing': 4, 'do': 4, 'aesop,': 1, 'thta': 1, 'buffoon,': 2,
+'pierrot,': 1, 'merely': 1, 'takken': 1, 'over': 1, 'this': 6, 'affair,': 1,
+'just': 1, 'they': 7, 'have."': 1, 'determined': 1, 'drop': 1, 'litigation': 1,
+'monastry,': 1, 'relinguish': 1, 'claims': 1, 'wood-cuting': 1, 'fishery': 1,
+'rihgts': 1, 'at': 12, 'once.': 1, 'was': 27, 'more': 2, 'ready': 1, 'becuase':
+1, 'rights': 1, 'had': 17, 'becom': 1, 'less': 1, 'valuable,': 1, 'indeed': 2,
+'vaguest': 1, 'idea': 2, 'where': 2, 'wood': 1, 'river': 1, 'quedtion': 1,
+'were.': 1, 'these': 3, 'excellant': 1, 'intentions': 1, 'strengthed': 1,
+'enterd': 1, 'diniing-room,': 1, 'though,': 1, 'stricttly': 1, 'speakin,': 1,
+'it': 10, 'dining-room,': 2, 'for': 12, 'superior': 6, 'only': 3, 'two': 3,
+'rooms': 2, 'alltogether;': 1, 'were,': 1, 'however,': 1, 'larger': 1,
+'comfortable': 1, 'than': 3, 'zossimas.': 1, 'tehre': 1, 'no': 6, 'great': 1,
+'luxury': 1, 'about': 5, 'furnishng': 1, 'eithar.': 1, 'furniture': 1,
+'mohogany,': 1, 'covered': 1, 'leather,': 1, 'old-fashionned': 1, 'style': 1,
+'': 1, 'floor': 1, 'even': 2, 'stained,': 1, 'evreything': 1, 'shining': 1,
+'cleanlyness,': 1, 'there': 5, 'many': 1, 'chioce': 1, 'flowers': 1, 'windows;':
+1, 'most': 6, 'sumptuous': 1, 'thing': 1, 'room': 2, 'moment': 5, 'was,': 1,
+'course,': 2, 'beatifuly': 1, 'decorated': 1, 'table.': 2, 'cloth': 1, 'clean,':
+1, 'service': 1, 'shone;': 1, 'three': 1, 'kinds': 1, 'well-baked': 1, 'bread,':
+1, 'bottles': 1, 'wine,': 1, 'excellent': 1, 'mead,': 1, 'large': 1, 'glass': 1,
+'jug': 1, 'kvas': 1, '--': 6, 'both': 1, 'latter': 1, 'made': 2, 'monastery,':
+1, 'famous': 1, 'neigborhood.': 1, 'vodka.': 1, 'rakitin': 3, 'related': 1,
+'afterwards': 1, 'five': 1, 'dishes:': 1, 'fish-suop': 1, 'sterlets,': 1,
+'served': 2, 'little': 3, 'fish': 2, 'paties;': 1, 'then': 2, 'boiled': 1,
+'spesial': 1, 'way;': 1, 'salmon': 1, 'cutlets,': 1, 'ice': 1, 'pudding': 1,
+'compote,': 1, 'finally,': 1, 'blanc-mange.': 1, 'found': 1, 'out': 2, 'all': 9,
+'good': 1, 'things,': 1, 'resist': 1, 'peeping': 1, 'into': 3, 'kitchen,': 1,
+'already': 2, 'footing.': 1, 'footting': 1, 'everywhere,': 1, 'got': 2,
+'informaiton': 1, 'everything.': 1, 'an': 1, 'uneasy': 1, 'envious': 1, 'well':
+2, 'aware': 1, 'own': 3, 'considerable': 1, 'abilities,': 1, 'nervously': 1,
+'exaggerated': 1, 'self-conceit.': 1, 'knew': 2, 'would': 4, 'play': 2,
+'prominant': 1, 'part': 1, 'sort,': 1, 'alyosha,': 1, 'who': 2, 'attached': 1,
+'him,': 2, 'distressed': 1, 'see': 1, 'friend': 1, 'dishonorble,': 1, 'quite':
+4, 'unconscios': 1, 'being': 1, 'himself,': 4, 'considering,': 1, 'contrary,':
+1, 'because': 1, 'steal': 1, 'moneey': 1, 'left': 1, 'table': 2, 'highest': 1,
+'integrity.': 1, 'neither': 1, 'alyosha': 1, 'nor': 1, 'anyone': 1, 'else': 1,
+'infleunced': 1, 'that.': 1, 'rakitin,': 1, 'person': 1, 'tooo': 1,
+'consecuense': 1, 'invited': 1, 'dinner,': 1, 'which': 3, 'iosif,': 1,
+'paissy,': 1, 'one': 3, 'othr': 1, 'monk': 1, 'inmates': 1, 'monastery': 2,
+'invited.': 1, 'alraedy': 1, 'waiting': 2, 'kalganov,': 1, 'ivan': 3,
+'arrived.': 1, 'other': 1, 'guest,': 1, 'maximov,': 2, 'stood': 2, 'aside,': 1,
+'also.': 1, 'stepped': 1, 'middle': 1, 'receive': 2, 'guests.': 1, 'tall,': 1,
+'thin,': 1, 'still': 2, 'vigorous': 1, 'old': 1, 'man,': 1, 'black': 1, 'hair':
+1, 'streakd': 1, 'grey,': 1, 'long,': 1, 'grave,': 1, 'ascetic': 1, 'face.': 2,
+'bowed': 1, 'guests': 1, 'silence.': 1, 'time': 2, 'approaced': 1, 'blessing.':
+1, 'miusov': 3, 'tried': 1, 'kiss': 1, 'hand,': 1, 'drew': 1, 'back': 1,
+'aboid': 1, 'salute.': 1, 'kalganov': 1, 'went': 1, 'through': 1, 'ceremony': 1,
+'simple-hearted': 1, 'complete': 1, 'manner,': 1, 'kissing': 1, 'hand': 1,
+'peesants': 1, 'do.': 1, '"we': 1, 'must': 2, 'apologize': 1, 'humbly,': 1,
+'your': 7, 'reverance,"': 1, 'began': 2, 'simpering': 1, 'affably,': 1,
+'speakin': 1, 'dignified': 1, 'respecful': 1, 'tone.': 1, '"pardonus': 1,
+'having': 1, 'come': 2, 'alone': 1, 'without': 1, 'genttleman': 1, 'you': 14,
+'invited,': 1, 'pavlovitch.': 2, 'obliged': 1, 'decline': 1, 'honor': 1,
+'hospitalty,': 1, 'wihtout': 1, 'reason.': 1, 'reverand': 1, 'cell': 1,
+'carried': 1, 'away': 2, 'unhappy': 1, 'dissention': 1, 'son,': 1, 'let': 3,
+'words': 2, 'keeping...': 1, 'fact,': 1, 'unseamly...': 1, 'as"': 1, 'glanced':
+1, '"your': 1, 'reverance': 1, 'is,': 1, 'doubt,': 1, 'aware.': 1, 'therefore,':
+1, 'recognising': 1, 'sincere': 1, 'regret': 1, 'shame,': 1, 'begged': 1, 'me,':
+2, 'son': 1, 'fyodorovitch,': 1, 'convey': 1, 'apologees': 1, 'regrets.': 1,
+'brief,': 1, 'hopes': 1, 'desires': 1, 'make': 1, 'amends': 1, 'later.': 1,
+'asks': 1, 'blessinq,': 1, 'begs': 1, 'forget': 1, 'what': 5, 'has': 3, 'takn':
+1, 'place."': 1, 'utterred': 1, 'last': 3, 'word': 1, 'terade,': 1,
+'completely': 1, 'recovered': 1, 'self-complecency,': 1, 'traces': 1, 'former':
+1, 'iritation': 1, 'disappaered.': 1, 'fuly': 1, 'sincerelly': 1, 'loved': 1,
+'humanity': 1, 'again.': 1, 'listened': 1, 'diginity,': 1, 'and,': 1, 'slight':
+1, 'bend': 1, 'head,': 1, 'replied:': 1, '"i': 4, 'sincerly': 1, 'deplore': 1,
+'absence.': 1, 'perhaps': 1, 'our': 2, 'might': 3, 'learnt': 1, 'like': 1,
+'us,': 1, 'we': 1, 'him.': 1, 'pray': 1, 'seated,': 1, 'gentlemen."': 1,
+'before': 2, 'holly': 1, 'image,': 1, 'say': 2, 'grace,': 1, 'aloud.': 1,
+'bent': 1, 'their': 1, 'heads': 1, 'reverently,': 1, 'maximov': 1, 'clasped': 1,
+'hands': 1, 'peculier': 1, 'fervor.': 1, 'pavlovitch': 1, 'played': 3, 'prank.':
+1, 'noted': 1, 'realy': 1, 'meant': 1, 'go': 5, 'home,': 1, 'really': 1,
+'imposibility': 1, 'going': 1, 'dine': 1, 'though': 1, 'happenned,': 1, 'after':
+1, 'disgraceful': 1, 'behavoir': 1, 'elders': 1, 'cell.': 1, 'very': 2,
+'himself': 2, 'contrary': 1, 'perhaps.': 1, 'unseemly': 1, 'dinner.': 1, 'yet':
+1, 'hiscreaking': 1, 'carriage': 1, 'hardly': 2, 'brought': 1, 'steps': 2,
+'hotel,': 1, 'it,': 2, 'sudddenly': 1, 'stoped': 1, 'short.': 1, 'remembered':
+1, 'elders:': 1, 'always': 2, 'meet': 1, 'am': 6, 'lower': 2, 'all,': 1, 'take':
+1, 'me': 5, 'buffon;': 1, 'are,': 1, 'every': 1, 'you,': 2, 'stupider': 1,
+'i."': 1, 'longed': 1, 'revenge': 1, 'everone': 1, 'unseemliness.': 1,
+'suddenly': 1, 'recalled': 1, 'how': 2, 'once': 2, 'past': 1, 'asked,': 1,
+'"why': 1, 'hate': 1, 'so,': 1, 'much?"': 1, 'answered': 1, 'them,': 1,
+'shaemless': 1, 'impudence,': 1, '"ill': 1, 'tell': 1, 'you.': 1, 'done': 1,
+'harm.': 1, 'dirty': 1, 'trick,': 1, 'ever': 1, 'since': 2, 'hated': 1, 'him."':
+1, 'rememebering': 1, 'now,': 1, 'smiled': 1, 'quietly': 1, 'malignently,': 1,
+'hesitating': 1, 'moment.': 1, 'eyes': 1, 'gleamed,': 1, 'lips': 1,
+'positively': 3, 'quivered.': 1, '"well,': 3, 'begun,': 1, 'may': 1, 'on,"': 1,
+'decided.': 1, 'predominant': 1, 'sensation': 1, 'expresed': 1, 'folowing': 1,
+'words,': 1, 'rehabilitating': 1, 'myself': 1, 'now.': 2, 'shame': 1, 'worht.':
+1, 'will': 6, 'dont': 1, 'care': 1, 'think': 1, 'thats': 2, 'all"': 1, 'told':
+1, 'caochman': 1, 'wait,': 1, 'while': 2, 'rapid': 1, 'returnd': 1, 'staight':
+1, 'superiors.': 1, 'clear': 1, 'do,': 1, 'control': 1, 'touch': 1, 'drive': 1,
+'utmost': 1, 'limits': 1, 'obsenity,': 2, 'criminal,': 1, 'couldbe': 1,
+'legally': 1, 'punished.': 1, 'resort,': 1, 'restrain': 1, 'marvelled': 1,
+'score,': 1, 'sometimes.': 1, 'appeered': 1, 'prayer': 2, 'over,': 1, 'moving':
+1, 'standing': 1, 'doorway,': 1, 'scanned': 1, 'company,': 1, 'laughing': 1,
+'prolonged,': 1, 'impudent,': 1, 'malicius': 1, 'chuckle,': 1, 'looked': 1,
+'boldly': 1, '"they': 1, 'thought': 1, 'gone,': 1, 'again,"': 1, 'cried': 3,
+'wholle': 1, 'room.': 1, 'everyone': 2, 'stared': 1, 'withot': 1, 'word;': 1,
+'someting': 1, 'revolting,': 1, 'grotescue,': 1, 'scandalous,': 1, 'happen.': 1,
+'passed': 1, 'immeditaely': 1, 'from': 3, 'benevolen': 1, 'frame': 1, 'mind': 1,
+'savage.': 1, 'feelings': 1, 'subsided': 1, 'died': 1, 'down': 1, 'heart': 1,
+'revived': 1, 'instantly.': 1, '"no': 1, 'cannot': 3, 'endure"': 1, 'cried.': 1,
+'absolutly': 1, 'and...': 1, 'certainly': 1, 'cannot"': 1, 'blood': 1, 'rushed':
+1, 'head.': 1, 'stammered;': 1, 'beyyond': 1, 'thinking': 1, 'style,': 1,
+'seized': 1, 'hat.': 1, '"what': 2, 'cannot?"': 1, '"that': 1, 'absolutely': 1,
+'certanly': 1, 'cannot?': 1, 'reverence,': 2, 'or': 1, 'not?': 1, 'recieve': 1,
+'guest?"': 1, '"you': 1, 'are': 4, 'welcome': 1, 'my': 2, 'heart,"': 1,
+'answerred': 1, 'superior.': 1, '"gentlemen"': 1, 'added,': 1, 'venture': 1,
+'beg': 1, 'earnesly': 1, 'lay': 1, 'aside': 1, 'dissentions,': 1, 'united': 1,
+'love': 1, 'family': 2, 'harmoni-': 1, 'lord': 1, 'humble': 1, 'table."': 1,
+'"no,': 2, 'no,': 1, 'impossible"': 1, 'cryed': 1, 'beside': 1, 'impossible': 2,
+'pyotr': 3, 'alexandrovitch,': 2, 'stop.': 1, 'came.': 1, 'keep': 1,
+'alexandrovitch': 1, 'everywere': 1, 'away,': 1, 'too,': 1, 'remain,': 1,
+'remain.': 1, 'stung': 1, 'said': 1, 'harmony,': 1, 'does': 1, 'admit': 1,
+'realtion.': 1, 'right,': 1, 'isnt': 1, 'von': 9, 'sohn?': 1, 'heres': 1,
+'sohn.': 2, 'sohn?"': 2, '"do': 1, 'mean': 2, 'me?"': 1, 'mutered': 1,
+'puzzled.': 1, '"of': 1, 'course': 1, 'you,"': 1, '"who': 1, 'else?': 1,
+'cuold': 1, 'sohn."': 1, '"but': 1, 'sohn': 2, 'either.': 1, 'maximov."': 1,
+'know': 1, 'was?': 1, 'famos': 1, 'murder': 1, 'case.': 1, 'killed': 2, 'house':
+1, 'harlotry': 1, 'believe': 1, 'such': 1, 'places': 1, 'called': 1, 'among': 1,
+'you-': 1, 'robed,': 1, 'spite': 1, 'venarable': 1, 'age,': 1, 'nailed': 1,
+'up': 1, 'box': 1, 'sent': 1, 'petersburg': 1, 'moscow': 1, 'lugage': 1, 'van,':
+1, 'nailling': 1, 'up,': 1, 'harlots': 1, 'sang': 1, 'songs': 1, 'harp,': 1,
+'say,': 1, 'piano.': 1, 'solin.': 1, 'risen': 1, 'dead,': 1, 'hasnt': 1, 'he,':
+1, 'happening?': 1, 'whats': 1, 'this?"': 1, 'voices': 1, 'heard': 1, 'groop':
+1, 'monks.': 1}), defaultdict(<class 'int'>, {'"let': 1, 'us': 1, 'go,"': 1,
+'cried': 3, 'miusov,': 2, 'addresing': 1, 'kalganov.': 1, '"no,': 1, 'excuse':
+1, 'me,"': 1, 'fyodor': 10, 'pavlovitch': 9, 'broke': 1, 'in': 26, 'shrilly,':
+1, 'taking': 2, 'another': 2, 'stepinto': 1, 'the': 73, 'room.': 1, '"allow': 1,
+'me': 10, 'to': 45, 'finis.': 1, 'there': 4, 'cell': 1, 'you': 36, 'blamed': 1,
+'for': 14, 'behaving': 1, 'disrespectfuly': 1, 'just': 1, 'because': 1, 'i': 37,
+'spoke': 2, 'of': 33, 'eating': 2, 'gudgeon,': 1, 'pyotr': 4, 'alexandrovitch.':
+2, 'my': 14, 'relation,': 1, 'prefers': 1, 'have': 12, 'plus': 2, 'de': 4,
+'noblesse': 2, 'que': 2, 'sincerite': 2, 'his': 19, 'words,': 1, 'but': 14,
+'prefer': 1, 'mine': 1, 'noblesse,': 1, 'and': 58, '--': 8, 'damn': 1, 'thats':
+1, 'right,': 1, 'isnt': 1, 'it,': 3, 'von': 8, 'sohn?': 2, 'allow': 1, 'me,': 2,
+'father': 8, 'superior,': 2, 'though': 2, 'am': 11, 'a': 32, 'buffoon': 1,
+'play': 1, 'buffoon,': 1, 'yet': 1, 'soul': 2, 'honor,': 1, 'want': 4, 'speak':
+3, 'mind.': 2, 'yes,': 1, 'teh': 1, 'honour,': 1, 'while': 2, 'alexandrovitch':
+2, 'is': 13, 'wounded': 1, 'vanity': 1, 'nothing': 1, 'else.': 1, 'came': 1,
+'here': 4, 'perhaps': 1, 'look': 5, 'son,': 5, 'alexey,': 3, 'here,': 1,
+'being': 3, 'saved.': 1, 'father;': 1, 'care': 1, 'welfare,': 1, 'it': 28,
+'duty': 1, 'care.': 1, 'ive': 2, 'been': 6, 'playing': 1, 'fool,': 1,
+'listening': 1, 'havig': 1, 'on': 13, 'sly;': 1, 'now': 3, 'give': 2, 'last': 1,
+'act': 2, 'performence.': 1, 'know': 2, 'how': 4, 'things': 1, 'are': 5, 'with':
+11, 'us?': 1, 'as': 5, 'thing': 2, 'falls,': 1, 'so': 12, 'lies.': 1, 'once': 2,
+'has': 5, 'falen,': 1, 'must': 4, 'lie': 3, 'ever.': 1, 'not': 13, 'bit': 3,
+'get': 3, 'up': 6, 'again.': 3, 'holy': 3, 'father,': 2, 'indignent': 1, 'you.':
+1, 'confession': 3, 'great': 3, 'sacrament,': 1, 'before': 2, 'which': 5,
+'ready': 1, 'bow': 1, 'down': 2, 'reverently;': 1, 'cell,': 2, 'they': 2, 'all':
+6, 'kneal': 1, 'confess': 3, 'aloud.': 1, 'can': 4, 'be': 10, 'right': 1,
+'aloud?': 1, 'was': 18, 'ordained': 1, 'by': 8, 'fathers': 4, 'sercet:': 1,
+'then': 1, 'only': 4, 'your': 5, 'will': 11, 'mystery,': 1, 'old.': 1,
+'explain': 1, 'him': 10, 'everyone': 1, 'that': 18, 'did': 6, 'this': 6,
+'that...': 1, 'well,': 1, 'understand': 2, 'what': 6, 'sometimes': 1, 'would':
+2, 'proper': 1, 'talk': 2, 'about': 5, 'really': 1, 'scandal': 1, 'no,': 4,
+'fathers,': 3, 'one': 5, 'might': 2, 'carried': 2, 'along': 1, 'flagellants,':
+1, 'dare': 1, 'say....': 1, 'att': 1, 'first': 1, 'opportunity': 1, 'shall': 2,
+'write': 1, 'synod,': 1, 'take': 2, 'home."': 1, 'we': 4, 'note': 1, 'knew': 2,
+'whree': 1, 'weak': 1, 'spot.': 1, 'had': 13, 'at': 12, 'time': 2, 'malicius':
+1, 'rumors': 1, 'even': 4, 'reached': 1, 'archbishop': 1, '(not': 1,
+'regarding': 1, 'our': 4, 'monastery,': 1, 'others': 1, 'where': 1,
+'instutition': 1, 'elders': 3, 'existed)': 1, 'too': 4, 'much': 1, 'respect': 1,
+'paid': 1, 'elders,': 1, 'detrement': 1, 'auhtority': 1, 'abused': 1,
+'sacrament': 1, 'absurd': 2, 'charges': 1, 'died': 1, 'away': 4, 'themselves':
+1, 'everywhere.': 1, 'spirit': 1, 'folly,': 1, 'caught': 1, 'bearring': 1,
+'curent': 1, 'own': 1, 'nerves': 1, 'into': 2, 'lower': 2, 'depths': 1,
+'ignominy,': 1, 'prompted': 1, 'old': 5, 'slander.': 1, 'word': 3, 'he': 35,
+'could': 4, 'put': 2, 'sensibly,': 1, 'occasion': 1, 'no': 5, 'kneelling': 1,
+'confesing': 1, 'aloud': 2, 'seen': 1, 'anything': 1, 'kind.': 1, 'speaking': 1,
+'from': 7, 'confused': 1, 'memory': 1, 'slanders.': 1, 'soon': 1, 'uttered': 2,
+'foolish': 1, 'tirade,': 1, 'felt': 2, 'talking': 2, 'nonsense,': 1, 'longed':
+1, 'prove': 1, 'audiance,': 1, 'above': 1, 'himself,': 3, 'nonsense.': 1,
+'and,': 1, 'perfectily': 1, 'well': 1, 'each': 1, 'adding': 1, 'morre': 1,
+'more': 1, 'absurdity,': 1, 'restrian': 1, 'plunged': 1, 'forward': 1,
+'blindly.': 1, '"how': 1, 'disgraveful"': 1, '"pardon': 1, 'me"': 2, 'said': 4,
+'superior.': 2, '"it': 2, 'old,': 1, 'many': 2, 'begun': 2, 'agains': 1, 'evil':
+1, 'sayings': 1, 'me.': 4, 'hearing': 1, 'myself:': 1, 'correcsion': 1, 'lord':
+1, 'sent': 3, 'heal': 1, 'vain': 1, 'soul.': 1, 'humbely': 1, 'thank': 1,
+'you,': 2, 'honored': 1, 'geust"': 1, 'made': 2, 'low': 1, 'bow.': 1, '"tut': 1,
+'tut': 3, 'sanctimoniuosness': 1, 'stock': 1, 'phrases': 1, 'phrasses': 1,
+'gestures.': 1, 'lies': 1, 'formal': 1, 'prostratoins.': 1, 'them.': 1, 'kisss':
+1, 'lips': 1, 'dagger': 1, 'heart,': 1, 'schillers': 1, 'robbers.': 1, 'dont':
+2, 'like': 2, 'falsehood,': 1, 'truth.': 1, 'trut': 1, 'found': 1, 'gudgeon': 1,
+'proclam': 1, 'monks,': 1, 'why': 4, 'do': 4, 'fast?': 1, 'expect': 1, 'reward':
+3, 'heaven': 1, 'that?': 1, 'why,': 2, 'come': 3, 'fast': 1, 'saintly': 1,
+'monk,': 1, 'try': 1, 'vittuous': 1, 'world,': 1, 'good': 1, 'society,': 1,
+'without': 4, 'shuting': 1, 'yourself': 2, 'monastery': 4, 'other': 1,
+'peoples': 1, 'expense,': 1, 'expecting': 1, 'aloft': 1, 'youll': 1, 'find': 1,
+'taht': 1, 'harder.': 1, 'sense,': 1, 'too,': 1, 'got': 3, 'here?"': 1, 'went':
+2, 'table.': 1, '"old': 1, 'port': 1, 'wine,': 1, 'mead': 1, 'brewed': 1,
+'eliseyev': 1, 'brothers.': 1, 'fie,': 2, 'something': 1, 'beyond': 1,
+'gudgeon.': 1, 'bottles': 1, 'brought': 1, 'out,': 2, 'who': 3, 'provided': 1,
+'all?': 1, 'russian': 1, 'peasant,': 1, 'laborer,': 1, 'brings': 1, 'farthing':
+1, 'earned': 1, 'horny': 1, 'hand,': 1, 'wringing': 1, 'family': 1, 'tax-
+gaterer': 1, 'bleed': 1, 'people,': 1, 'know,': 1, 'fathers."': 1, '"this': 2,
+'disgraceful"': 1, 'iosif.': 1, 'paissy': 1, 'kept': 3, 'obsinately': 1,
+'silent.': 1, 'miusov': 1, 'rushed': 1, 'room,': 1, 'kalgonov': 1, 'afetr': 1,
+'him.': 2, '"well,': 2, 'follow': 3, 'coming': 1, 'see': 2, 'may': 1, 'beg': 1,
+'knees,': 1, 'shant': 1, 'come.': 1, 'thousand': 1, 'roubles,': 1, 'keep': 1,
+'eye': 1, 'ill': 1, 'say': 3, 'more.': 1, 'revenge': 1, 'youth,': 1,
+'humillition': 1, 'endured."': 1, 'thumped': 1, 'table': 1, 'fist': 1,
+'paroxysm': 1, 'simulated': 2, 'feelling.': 1, 'played': 2, 'part': 2, 'life':
+1, 'cost': 1, 'bitter': 2, 'tears.': 1, 'used': 1, 'set': 1, 'wife,': 1,
+'crazy': 1, 'one,': 1, 'against': 1, 'cursed': 1, 'bell': 1, 'book,': 1,
+'spread': 1, 'stories': 1, 'over': 1, 'place.': 1, 'enough,': 1, 'age': 2,
+'liberalizm,': 1, 'steamers': 1, 'reilways.': 1, 'neither': 1, 'thousand,': 1,
+'nor': 2, 'hundred': 2, 'ruobles,': 1, 'farthings': 1, 'out': 2, 'noted': 1,
+'again': 3, 'never': 2, 'any': 1, 'liffe,': 1, 'shed': 1, 'tear': 2, 'owing': 1,
+'it.': 2, 'emotion,': 1, 'momant': 1, 'allmost': 2, 'beliefing': 1, 'himself.':
+1, 'touched': 1, 'almost': 1, 'weeping.': 1, 'very': 1, 'instant,': 1, 'draw':
+1, 'back.': 1, 'superior': 1, 'bowed': 1, 'head': 1, 'malicious': 1, 'lie,': 1,
+'impressively:': 1, 'writen': 1, 'again,': 1, 'bear': 1, 'circumspecly': 1,
+'gladly': 1, 'dishonor': 1, 'cometh': 1, 'upon': 1, 'thee': 1, 'thine': 1,
+'own,': 1, 'confounded': 1, 'hate': 1, 'hath': 1, 'dishonored': 1, 'thee.': 1,
+'we."': 1, '"tut,': 1, 'tut,': 1, 'bethinking': 1, 'thyself': 1, 'rest': 2,
+'rigmarole.': 1, 'bethink': 1, 'yourselfs': 1, 'go.': 1, 'ever,': 1, 'parental':
+1, 'authority.': 1, 'ivan': 5, 'fyodorovitch,': 1, 'most': 1, 'dutiful': 1,
+'permit': 1, 'order': 1, 'sohn,': 2, 'stay': 1, 'for?': 1, 'town.': 1, 'fun': 1,
+'there.': 1, 'short': 1, 'verst;': 1, 'instead': 1, 'lenten': 1, 'oil,': 1,
+'sucking-pig': 1, 'kasha.': 1, 'dinner': 1, 'some': 1, 'brendy': 1, 'liqueur':
+1, 'it....': 1, 'cloudberry': 1, 'wyne.': 1, 'hey,': 1, 'lose': 1, 'chance."':
+1, 'shuoting': 1, 'gesticulating.': 1, 'moment': 1, 'rakitin': 2, 'saw': 2,
+'pointed': 1, 'alyosha.': 2, '"alexey"': 1, 'shouted,': 1, 'far': 1, 'off,': 1,
+'cacthing': 1, 'sight': 1, '"you': 1, 'home': 1, 'to-day,': 1, 'good,': 1,
+'bring': 1, 'pilow': 1, 'matress,': 1, 'leeve': 1, 'trace': 1, 'behind."': 1,
+'alyosha': 2, 'stood': 1, 'rooted': 1, 'spot,': 1, 'wacthing': 1, 'scene': 2,
+'silense.': 1, 'meanwhile,': 1, 'carriege,': 1, 'grim': 1, 'silance': 1,
+'turnin': 1, 'good-bye': 1, 'point': 1, 'incrediple': 1, 'grotesque': 1,
+'buffoonery': 1, 'gave': 2, 'finishng': 1, 'touch': 1, 'episode.': 1, 'maximov':
+2, 'suddenly': 1, 'appeered': 1, 'side': 1, 'carriage.': 1, 'ran': 1, 'up,': 1,
+'panting,': 1, 'afraid': 1, 'late.': 1, 'runing.': 1, 'such': 1, 'hurry': 1,
+'impatiense': 1, 'foot': 2, 'step': 1, 'ivans': 1, 'left': 1, 'still': 1,
+'resting,': 1, 'clucthing': 1, 'carriage': 1, 'tryng': 1, 'jump': 3, 'in.': 1,
+'"i': 1, 'going': 1, '"': 1, 'shouting,': 1, 'laughing': 1, 'thin': 1,
+'mirthfull': 1, 'laugh': 1, 'reckless': 1, 'glee': 1, 'face.': 1, '"take': 1,
+'too."': 1, '"there"': 1, 'pavlovitch,': 1, 'delihted.': 1, '"did': 1, 'waz': 1,
+'sohn.': 1, 'iz': 1, 'sohn': 2, 'risen': 1, 'dead.': 1, 'away?': 1, 'there?': 1,
+'dinner?': 1, 'brazen-faced': 1, 'fellow': 1, 'myself,': 1, 'surprized': 1,
+'brother': 1, 'in,': 1, 'let': 1, 'pass,': 1, 'ivan.': 1, 'fun.': 1, 'somwhere':
+1, 'feet.': 1, 'feet,': 1, 'or': 1, 'perch': 1, 'box': 1, 'coachman.': 2,
+'skipp': 1, 'box,': 1, 'sohn"': 1, 'ivan,': 1, 'taken': 1, 'seat,': 1,
+'voilent': 1, 'punch': 1, 'breast': 1, 'flying.': 1, 'quite': 1, 'chanse': 1,
+'fall.': 1, '"drive': 1, 'on"': 1, 'shouted': 1, 'angryly': 1, '"why,': 2,
+'doing,': 1, 'abuot?': 1, 'that?"': 1, 'protested.': 1, 'cariage': 1, 'already':
+1, 'driven': 1, 'away.': 1, 'reply.': 1, 'fellow,"': 1, 'siad': 1, 'after': 1,
+'pouse': 1, 'two': 2, 'minutes,': 1, 'looking': 1, 'askance': 1, 'busines.': 1,
+'urged': 1, 'approvved': 1, 'angry': 1, 'now?"': 1, '"youve': 1, 'talked': 1,
+'rot': 1, 'enough.': 1, 'now,"': 1, 'snaped': 1, 'sullenly.': 1, 'silent': 1,
+'minutes.': 1}), defaultdict(<class 'int'>, {'"a': 1, 'drop': 2, 'of': 33,
+'brandy': 1, 'would': 5, 'be': 8, 'nice': 1, 'now,"': 1, 'he': 63, 'observd': 1,
+'sententiosly,': 1, 'but': 14, 'ivan': 6, 'made': 3, 'no': 7, 'repsonse.': 1,
+'"you': 2, 'shall': 2, 'have': 9, 'some,': 1, 'too,': 1, 'when': 7, 'we': 2,
+'get': 1, 'home."': 1, 'was': 24, 'still': 3, 'silent.': 1, 'fyodor': 5,
+'pavlovitch': 2, 'waited': 1, 'anohter': 1, 'two': 4, 'minites.': 1, '"but': 1,
+'i': 18, 'take': 2, 'alyosha': 2, 'away': 3, 'from': 2, 'the': 81, 'monastery,':
+2, 'though': 2, 'you': 8, 'will': 3, 'dislike': 1, 'it': 8, 'so': 8, 'much,': 1,
+'most': 7, 'honored': 1, 'karl': 1, 'von': 1, 'moor."': 1, 'shruged': 1, 'his':
+32, 'shuolders': 1, 'contemptuosly,': 1, 'and': 63, 'turning': 1, 'stared': 2,
+'at': 13, 'road.': 1, 'they': 7, 'did': 1, 'not': 11, 'speek': 1, 'again': 1,
+'all': 10, 'way': 1, 'home.': 1, 'miusov,': 4, 'as': 7, 'a': 20, 'man': 3,
+'breeding': 1, 'deilcacy,': 1, 'could': 5, 'feel': 2, 'some': 2, 'inwrd': 1,
+'qualms,': 1, 'reached': 1, 'father': 15, 'superiors': 3, 'with': 18, 'ivan:':
+1, 'felt': 7, 'ashamed': 2, 'havin': 1, 'lost': 1, 'temper.': 2, 'that': 21,
+'ought': 1, 'to': 49, 'disdaimed': 1, 'despicable': 1, 'wretch,': 1,
+'pavlovitch,': 2, 'too': 1, 'much': 4, 'been': 5, 'upset': 1, 'by': 3, 'him': 6,
+'in': 30, 'zossimas': 2, 'cell,': 1, 'forgotten': 1, 'himself.': 2, '"teh': 1,
+'monks': 2, 'were': 9, 'blame,': 2, 'any': 1, 'case,"': 1, 'reflceted,': 1,
+'on': 5, 'steps.': 1, '"and': 1, 'if': 1, 'theyre': 1, 'decent': 1, 'people': 2,
+'here': 2, '(and': 1, 'superior,': 1, 'understand,': 1, 'is': 4, 'nobleman)': 1,
+'why': 1, 'friendly': 1, 'courteous': 1, 'withthem?': 1, 'wont': 1, 'argue,': 1,
+'ill': 2, 'fall': 2, 'everything,': 1, 'win': 1, 'them': 6, 'politness,': 1,
+'show': 2, 'ive': 1, 'nothing': 4, 'do': 3, 'aesop,': 1, 'thta': 1, 'buffoon,':
+2, 'pierrot,': 1, 'merely': 1, 'takken': 1, 'over': 1, 'this': 5, 'affair,': 1,
+'just': 1, 'have."': 1, 'determined': 1, 'litigation': 1, 'monastry,': 1,
+'relinguish': 1, 'claims': 1, 'wood-cuting': 1, 'fishery': 1, 'rihgts': 1,
+'once.': 1, 'more': 2, 'ready': 1, 'becuase': 1, 'rights': 1, 'had': 17,
+'becom': 1, 'less': 1, 'valuable,': 1, 'indeed': 2, 'vaguest': 1, 'idea': 2,
+'where': 2, 'wood': 1, 'river': 1, 'quedtion': 1, 'were.': 1, 'these': 3,
+'excellant': 1, 'intentions': 1, 'strengthed': 1, 'enterd': 1, 'diniing-room,':
+1, 'though,': 1, 'stricttly': 1, 'speakin,': 1, 'dining-room,': 2, 'for': 10,
+'superior': 5, 'only': 3, 'rooms': 2, 'alltogether;': 1, 'were,': 1, 'however,':
+1, 'larger': 1, 'comfortable': 1, 'than': 3, 'zossimas.': 1, 'tehre': 1,
+'great': 1, 'luxury': 1, 'about': 4, 'furnishng': 1, 'eithar.': 1, 'furniture':
+1, 'mohogany,': 1, 'covered': 1, 'leather,': 1, 'old-fashionned': 1, 'style': 1,
+'': 1, 'floor': 1, 'even': 2, 'stained,': 1, 'evreything': 1, 'shining': 1,
+'cleanlyness,': 1, 'there': 5, 'many': 1, 'chioce': 1, 'flowers': 1, 'windows;':
+1, 'sumptuous': 1, 'thing': 1, 'room': 2, 'moment': 5, 'was,': 1, 'course,': 2,
+'beatifuly': 1, 'decorated': 1, 'table.': 2, 'cloth': 1, 'clean,': 1, 'service':
+1, 'shone;': 1, 'three': 1, 'kinds': 1, 'well-baked': 1, 'bread,': 1, 'bottles':
+1, 'wine,': 1, 'excellent': 1, 'mead,': 1, 'large': 1, 'glass': 1, 'jug': 1,
+'kvas': 1, '--': 5, 'both': 1, 'latter': 1, 'famous': 1, 'neigborhood.': 1,
+'vodka.': 1, 'rakitin': 3, 'related': 1, 'afterwards': 1, 'five': 1, 'dishes:':
+1, 'fish-suop': 1, 'sterlets,': 1, 'served': 2, 'little': 3, 'fish': 2,
+'paties;': 1, 'then': 2, 'boiled': 1, 'spesial': 1, 'way;': 1, 'salmon': 1,
+'cutlets,': 1, 'ice': 1, 'pudding': 1, 'compote,': 1, 'finally,': 1, 'blanc-
+mange.': 1, 'found': 1, 'out': 2, 'good': 1, 'things,': 1, 'resist': 1,
+'peeping': 1, 'into': 3, 'kitchen,': 1, 'already': 2, 'footing.': 1, 'footting':
+1, 'everywhere,': 1, 'got': 2, 'informaiton': 1, 'everything.': 1, 'an': 1,
+'uneasy': 1, 'envious': 1, 'well': 2, 'aware': 1, 'own': 3, 'considerable': 1,
+'abilities,': 1, 'nervously': 1, 'exaggerated': 1, 'self-conceit.': 1, 'knew':
+2, 'play': 2, 'prominant': 1, 'part': 1, 'sort,': 1, 'alyosha,': 1, 'who': 1,
+'attached': 1, 'him,': 2, 'distressed': 1, 'see': 1, 'friend': 1,
+'dishonorble,': 1, 'quite': 4, 'unconscios': 1, 'being': 1, 'himself,': 4,
+'considering,': 1, 'contrary,': 1, 'because': 1, 'steal': 1, 'moneey': 1,
+'left': 1, 'table': 2, 'highest': 1, 'integrity.': 1, 'neither': 1, 'nor': 1,
+'anyone': 1, 'else': 1, 'infleunced': 1, 'that.': 1, 'rakitin,': 1, 'person': 1,
+'tooo': 1, 'consecuense': 1, 'invited': 1, 'dinner,': 1, 'which': 3, 'iosif,':
+1, 'paissy,': 1, 'one': 3, 'othr': 1, 'monk': 1, 'inmates': 1, 'monastery': 2,
+'invited.': 1, 'alraedy': 1, 'waiting': 2, 'kalganov,': 1, 'arrived.': 1,
+'other': 1, 'guest,': 1, 'maximov,': 1, 'stood': 2, 'aside,': 1, 'also.': 1,
+'stepped': 1, 'middle': 1, 'receive': 2, 'guests.': 1, 'tall,': 1, 'thin,': 1,
+'vigorous': 1, 'old': 1, 'man,': 1, 'black': 1, 'hair': 1, 'streakd': 1,
+'grey,': 1, 'long,': 1, 'grave,': 1, 'ascetic': 1, 'face.': 2, 'bowed': 1,
+'guests': 1, 'silence.': 1, 'time': 2, 'approaced': 1, 'blessing.': 1, 'miusov':
+3, 'tried': 1, 'kiss': 1, 'hand,': 1, 'drew': 1, 'back': 1, 'aboid': 1,
+'salute.': 1, 'kalganov': 1, 'went': 1, 'through': 1, 'ceremony': 1, 'simple-
+hearted': 1, 'complete': 1, 'manner,': 1, 'kissing': 1, 'hand': 1, 'peesants':
+1, 'do.': 1, '"we': 1, 'must': 2, 'apologize': 1, 'humbly,': 1, 'your': 6,
+'reverance,"': 1, 'began': 2, 'simpering': 1, 'affably,': 1, 'speakin': 1,
+'dignified': 1, 'respecful': 1, 'tone.': 1, '"pardonus': 1, 'having': 1, 'come':
+2, 'alone': 1, 'without': 1, 'genttleman': 1, 'invited,': 1, 'pavlovitch.': 1,
+'obliged': 1, 'decline': 1, 'honor': 1, 'hospitalty,': 1, 'wihtout': 1,
+'reason.': 1, 'reverand': 1, 'cell': 1, 'carried': 1, 'unhappy': 1,
+'dissention': 1, 'son,': 1, 'let': 3, 'words': 2, 'keeping...': 1, 'fact,': 1,
+'unseamly...': 1, 'as"': 1, 'glanced': 1, '"your': 1, 'reverance': 1, 'is,': 1,
+'doubt,': 1, 'aware.': 1, 'therefore,': 1, 'recognising': 1, 'sincere': 1,
+'regret': 1, 'shame,': 1, 'begged': 1, 'me,': 1, 'son': 1, 'fyodorovitch,': 1,
+'convey': 1, 'apologees': 1, 'regrets.': 1, 'brief,': 1, 'hopes': 1, 'desires':
+1, 'make': 1, 'amends': 1, 'later.': 1, 'asks': 1, 'blessinq,': 1, 'begs': 1,
+'forget': 1, 'what': 3, 'has': 2, 'takn': 1, 'place."': 1, 'utterred': 1,
+'last': 3, 'word': 1, 'terade,': 1, 'completely': 1, 'recovered': 1, 'self-
+complecency,': 1, 'traces': 1, 'former': 1, 'iritation': 1, 'disappaered.': 1,
+'fuly': 1, 'sincerelly': 1, 'loved': 1, 'humanity': 1, 'again.': 1, 'listened':
+1, 'diginity,': 1, 'and,': 1, 'slight': 1, 'bend': 1, 'head,': 1, 'replied:': 1,
+'"i': 4, 'sincerly': 1, 'deplore': 1, 'absence.': 1, 'perhaps': 1, 'our': 2,
+'might': 3, 'learnt': 1, 'like': 1, 'us,': 1, 'him.': 1, 'pray': 1, 'seated,':
+1, 'gentlemen."': 1, 'before': 2, 'holly': 1, 'image,': 1, 'say': 2, 'grace,':
+1, 'aloud.': 1, 'bent': 1, 'their': 1, 'heads': 1, 'reverently,': 1, 'maximov':
+1, 'clasped': 1, 'hands': 1, 'peculier': 1, 'fervor.': 1, 'played': 2, 'prank.':
+1, 'noted': 1, 'realy': 1, 'meant': 1, 'go': 3, 'home,': 1, 'really': 1,
+'imposibility': 1, 'going': 1, 'dine': 1, 'happenned,': 1, 'after': 1,
+'disgraceful': 1, 'behavoir': 1, 'elders': 1, 'cell.': 1, 'very': 1, 'himself':
+2, 'contrary': 1, 'perhaps.': 1, 'unseemly': 1, 'dinner.': 1, 'yet': 1,
+'hiscreaking': 1, 'carriage': 1, 'hardly': 2, 'brought': 1, 'steps': 2,
+'hotel,': 1, 'it,': 1, 'sudddenly': 1, 'stoped': 1, 'short.': 1, 'remembered':
+1, 'elders:': 1, 'always': 2, 'meet': 1, 'am': 4, 'lower': 2, 'all,': 1, 'me':
+5, 'buffon;': 1, 'are,': 1, 'every': 1, 'you,': 1, 'stupider': 1, 'i."': 1,
+'longed': 1, 'revenge': 1, 'everone': 1, 'unseemliness.': 1, 'suddenly': 1,
+'recalled': 1, 'how': 1, 'once': 2, 'past': 1, 'asked,': 1, '"why': 1, 'hate':
+1, 'so,': 1, 'much?"': 1, 'answered': 1, 'them,': 1, 'shaemless': 1,
+'impudence,': 1, '"ill': 1, 'tell': 1, 'you.': 1, 'done': 1, 'harm.': 1,
+'dirty': 1, 'trick,': 1, 'ever': 1, 'since': 2, 'hated': 1, 'him."': 1,
+'rememebering': 1, 'now,': 1, 'smiled': 1, 'quietly': 1, 'malignently,': 1,
+'hesitating': 1, 'moment.': 1, 'eyes': 1, 'gleamed,': 1, 'lips': 1,
+'positively': 3, 'quivered.': 1, '"well,': 2, 'begun,': 1, 'may': 1, 'on,"': 1,
+'decided.': 1, 'predominant': 1, 'sensation': 1, 'expresed': 1, 'folowing': 1,
+'words,': 1, 'rehabilitating': 1, 'myself': 1, 'now.': 1, 'shame': 1, 'worht.':
+1, 'dont': 1, 'care': 1, 'think': 1, 'thats': 1, 'all"': 1, 'told': 1,
+'caochman': 1, 'wait,': 1, 'while': 1, 'rapid': 1, 'returnd': 1, 'staight': 1,
+'superiors.': 1, 'clear': 1, 'do,': 1, 'control': 1, 'touch': 1, 'drive': 1,
+'utmost': 1, 'limits': 1, 'obsenity,': 2, 'criminal,': 1, 'couldbe': 1,
+'legally': 1, 'punished.': 1, 'resort,': 1, 'restrain': 1, 'marvelled': 1,
+'score,': 1, 'sometimes.': 1, 'appeered': 1, 'prayer': 2, 'over,': 1, 'moving':
+1, 'standing': 1, 'doorway,': 1, 'scanned': 1, 'company,': 1, 'laughing': 1,
+'prolonged,': 1, 'impudent,': 1, 'malicius': 1, 'chuckle,': 1, 'looked': 1,
+'boldly': 1, '"they': 1, 'thought': 1, 'gone,': 1, 'again,"': 1, 'cried': 2,
+'wholle': 1, 'room.': 1, 'everyone': 2, 'withot': 1, 'word;': 1, 'someting': 1,
+'revolting,': 1, 'grotescue,': 1, 'scandalous,': 1, 'happen.': 1, 'passed': 1,
+'immeditaely': 1, 'benevolen': 1, 'frame': 1, 'mind': 1, 'savage.': 1,
+'feelings': 1, 'subsided': 1, 'died': 1, 'down': 1, 'heart': 1, 'revived': 1,
+'instantly.': 1, '"no': 1, 'cannot': 3, 'endure"': 1, 'cried.': 1, 'absolutly':
+1, 'and...': 1, 'certainly': 1, 'cannot"': 1, 'blood': 1, 'rushed': 1, 'head.':
+1, 'stammered;': 1, 'beyyond': 1, 'thinking': 1, 'style,': 1, 'seized': 1,
+'hat.': 1, '"what': 1, 'cannot?"': 1, '"that': 1, 'absolutely': 1, 'certanly':
+1, 'cannot?': 1, 'reverence,': 1, 'or': 1, 'not?': 1, 'recieve': 1, 'guest?"':
+1, 'are': 1, 'welcome': 1, 'my': 1, 'heart,"': 1, 'answerred': 1, 'superior.':
+1, '"gentlemen"': 1, 'added,': 1, 'venture': 1, 'beg': 1, 'earnesly': 1, 'lay':
+1, 'aside': 1, 'dissentions,': 1, 'united': 1, 'love': 1, 'family': 1,
+'harmoni-': 1, 'lord': 1, 'humble': 1, 'table."': 1, '"no,': 1, 'no,': 1,
+'impossible"': 1, 'cryed': 1, 'beside': 1}), defaultdict(<class 'int'>,
+{'"well,': 2, 'if': 3, 'it': 30, 'is': 21, 'impossible': 2, 'for': 15, 'pyotr':
+7, 'alexandrovitch,': 2, 'me,': 3, 'and': 64, 'i': 46, 'wont': 1, 'stop.': 1,
+'that': 22, 'why': 3, 'came.': 1, 'will': 15, 'keep': 2, 'with': 12,
+'alexandrovitch': 3, 'everywere': 1, 'now.': 1, 'you': 34, 'go': 2, 'away,': 1,
+'away': 5, 'too,': 2, 'remain,': 1, 'remain.': 1, 'stung': 1, 'him': 12, 'by':
+9, 'what': 6, 'said': 5, 'about': 6, 'family': 2, 'harmony,': 1, 'father': 10,
+'superior,': 3, 'he': 41, 'does': 1, 'not': 16, 'admit': 1, 'my': 15,
+'realtion.': 1, 'thats': 2, 'right,': 2, 'isnt': 2, 'it,': 3, 'von': 17,
+'sohn?': 3, 'heres': 1, 'sohn.': 3, 'how': 5, 'are': 4, 'you,': 3, 'sohn?"': 2,
+'"do': 1, 'mean': 2, 'me?"': 1, 'mutered': 1, 'maximov,': 1, 'puzzled.': 1,
+'"of': 1, 'course': 1, 'you,"': 1, 'cried': 4, 'fyodor': 8, 'pavlovitch.': 1,
+'"who': 1, 'else?': 1, 'the': 79, 'superior': 2, 'cuold': 1, 'be': 11, 'sohn."':
+1, '"but': 1, 'am': 13, 'sohn': 4, 'either.': 1, 'maximov."': 1, '"no,': 2,
+'your': 6, 'reverence,': 1, 'do': 4, 'know': 3, 'who': 4, 'was?': 1, 'was': 20,
+'a': 32, 'famos': 1, 'murder': 1, 'case.': 1, 'killed': 2, 'in': 31, 'house': 1,
+'of': 34, 'harlotry': 1, '--': 9, 'believe': 1, 'such': 2, 'places': 1,
+'called': 1, 'among': 1, 'you-': 1, 'robed,': 1, 'spite': 1, 'his': 19,
+'venarable': 1, 'age,': 1, 'nailed': 1, 'up': 6, 'box': 2, 'sent': 4, 'from': 9,
+'petersburg': 1, 'to': 47, 'moscow': 1, 'lugage': 1, 'van,': 1, 'while': 3,
+'they': 3, 'were': 2, 'nailling': 1, 'up,': 2, 'harlots': 1, 'sang': 1, 'songs':
+1, 'played': 3, 'harp,': 1, 'say,': 1, 'piano.': 1, 'so': 13, 'this': 6, 'very':
+2, 'solin.': 1, 'has': 6, 'risen': 2, 'dead,': 1, 'hasnt': 1, 'he,': 1, '"what':
+1, 'happening?': 1, 'whats': 1, 'this?"': 1, 'voices': 1, 'heard': 1, 'groop':
+1, 'monks.': 1, '"let': 1, 'us': 1, 'go,"': 1, 'miusov,': 2, 'addresing': 1,
+'kalganov.': 1, 'excuse': 1, 'me,"': 1, 'pavlovitch': 6, 'broke': 1, 'shrilly,':
+1, 'taking': 2, 'another': 2, 'stepinto': 1, 'room.': 1, '"allow': 1, 'me': 10,
+'finis.': 1, 'there': 4, 'cell': 1, 'blamed': 1, 'behaving': 1,
+'disrespectfuly': 1, 'just': 1, 'because': 1, 'spoke': 2, 'eating': 2,
+'gudgeon,': 1, 'alexandrovitch.': 2, 'relation,': 1, 'prefers': 1, 'have': 12,
+'plus': 2, 'de': 4, 'noblesse': 2, 'que': 2, 'sincerite': 2, 'words,': 1, 'but':
+13, 'prefer': 1, 'mine': 1, 'noblesse,': 1, 'damn': 1, 'allow': 1, 'though': 2,
+'buffoon': 1, 'play': 1, 'buffoon,': 1, 'yet': 1, 'soul': 2, 'honor,': 1,
+'want': 4, 'speak': 3, 'mind.': 2, 'yes,': 1, 'teh': 1, 'honour,': 1, 'wounded':
+1, 'vanity': 1, 'nothing': 1, 'else.': 1, 'came': 1, 'here': 4, 'perhaps': 1,
+'look': 5, 'son,': 4, 'alexey,': 3, 'here,': 1, 'being': 3, 'saved.': 1,
+'father;': 1, 'care': 1, 'welfare,': 1, 'duty': 1, 'care.': 1, 'ive': 2, 'been':
+6, 'playing': 1, 'fool,': 1, 'listening': 1, 'havig': 1, 'on': 13, 'sly;': 1,
+'now': 3, 'give': 2, 'last': 1, 'act': 2, 'performence.': 1, 'things': 1, 'us?':
+1, 'as': 5, 'thing': 2, 'falls,': 1, 'lies.': 1, 'once': 2, 'falen,': 1, 'must':
+4, 'lie': 3, 'ever.': 1, 'bit': 2, 'get': 3, 'again.': 2, 'holy': 3, 'father,':
+2, 'indignent': 1, 'you.': 1, 'confession': 3, 'great': 3, 'sacrament,': 1,
+'before': 2, 'which': 5, 'ready': 1, 'bow': 1, 'down': 2, 'reverently;': 1,
+'cell,': 2, 'all': 5, 'kneal': 1, 'confess': 3, 'aloud.': 1, 'can': 4, 'right':
+1, 'aloud?': 1, 'ordained': 1, 'fathers': 4, 'sercet:': 1, 'then': 1, 'only': 4,
+'mystery,': 1, 'old.': 1, 'explain': 1, 'everyone': 1, 'did': 5, 'that...': 1,
+'well,': 1, 'understand': 2, 'sometimes': 1, 'would': 2, 'proper': 1, 'talk': 2,
+'really': 1, 'scandal': 1, 'no,': 4, 'fathers,': 3, 'one': 5, 'might': 1,
+'carried': 2, 'along': 1, 'flagellants,': 1, 'dare': 1, 'say....': 1, 'att': 1,
+'first': 1, 'opportunity': 1, 'shall': 2, 'write': 1, 'synod,': 1, 'take': 2,
+'home."': 1, 'we': 4, 'note': 1, 'knew': 2, 'whree': 1, 'weak': 1, 'spot.': 1,
+'had': 12, 'at': 11, 'time': 2, 'malicius': 1, 'rumors': 1, 'even': 4,
+'reached': 1, 'archbishop': 1, '(not': 1, 'regarding': 1, 'our': 4,
+'monastery,': 1, 'others': 1, 'where': 1, 'instutition': 1, 'elders': 3,
+'existed)': 1, 'too': 4, 'much': 1, 'respect': 1, 'paid': 1, 'elders,': 1,
+'detrement': 1, 'auhtority': 1, 'abused': 1, 'sacrament': 1, 'absurd': 2,
+'charges': 1, 'died': 1, 'themselves': 1, 'everywhere.': 1, 'spirit': 1,
+'folly,': 1, 'caught': 1, 'bearring': 1, 'curent': 1, 'own': 1, 'nerves': 1,
+'into': 2, 'lower': 2, 'depths': 1, 'ignominy,': 1, 'prompted': 1, 'old': 5,
+'slander.': 1, 'word': 3, 'could': 4, 'put': 2, 'sensibly,': 1, 'occasion': 1,
+'no': 4, 'kneelling': 1, 'confesing': 1, 'aloud': 2, 'seen': 1, 'anything': 1,
+'kind.': 1, 'speaking': 1, 'confused': 1, 'memory': 1, 'slanders.': 1, 'soon':
+1, 'uttered': 2, 'foolish': 1, 'tirade,': 1, 'felt': 2, 'talking': 2,
+'nonsense,': 1, 'longed': 1, 'prove': 1, 'audiance,': 1, 'above': 1, 'himself,':
+3, 'nonsense.': 1, 'and,': 1, 'perfectily': 1, 'well': 1, 'each': 1, 'adding':
+1, 'morre': 1, 'more': 1, 'absurdity,': 1, 'restrian': 1, 'plunged': 1,
+'forward': 1, 'blindly.': 1, '"how': 1, 'disgraveful"': 1, '"pardon': 1, 'me"':
+2, 'superior.': 2, '"it': 2, 'old,': 1, 'many': 2, 'begun': 2, 'agains': 1,
+'evil': 1, 'sayings': 1, 'me.': 4, 'hearing': 1, 'myself:': 1, 'correcsion': 1,
+'lord': 1, 'heal': 1, 'vain': 1, 'soul.': 1, 'humbely': 1, 'thank': 1,
+'honored': 1, 'geust"': 1, 'made': 1, 'low': 1, 'bow.': 1, '"tut': 1, 'tut': 3,
+'sanctimoniuosness': 1, 'stock': 1, 'phrases': 1, 'phrasses': 1, 'gestures.': 1,
+'lies': 1, 'formal': 1, 'prostratoins.': 1, 'them.': 1, 'kisss': 1, 'lips': 1,
+'dagger': 1, 'heart,': 1, 'schillers': 1, 'robbers.': 1, 'dont': 2, 'like': 2,
+'falsehood,': 1, 'truth.': 1, 'trut': 1, 'found': 1, 'gudgeon': 1, 'proclam': 1,
+'monks,': 1, 'fast?': 1, 'expect': 1, 'reward': 3, 'heaven': 1, 'that?': 1,
+'why,': 2, 'come': 3, 'fast': 1, 'saintly': 1, 'monk,': 1, 'try': 1, 'vittuous':
+1, 'world,': 1, 'good': 1, 'society,': 1, 'without': 4, 'shuting': 1,
+'yourself': 2, 'monastery': 3, 'other': 1, 'peoples': 1, 'expense,': 1,
+'expecting': 1, 'aloft': 1, 'youll': 1, 'find': 1, 'taht': 1, 'harder.': 1,
+'sense,': 1, 'got': 2, 'here?"': 1, 'went': 2, 'table.': 1, '"old': 1, 'port':
+1, 'wine,': 1, 'mead': 1, 'brewed': 1, 'eliseyev': 1, 'brothers.': 1, 'fie,': 2,
+'something': 1, 'beyond': 1, 'gudgeon.': 1, 'bottles': 1, 'brought': 1, 'out,':
+2, 'provided': 1, 'all?': 1, 'russian': 1, 'peasant,': 1, 'laborer,': 1,
+'brings': 1, 'farthing': 1, 'earned': 1, 'horny': 1, 'hand,': 1, 'wringing': 1,
+'tax-gaterer': 1, 'bleed': 1, 'people,': 1, 'know,': 1, 'fathers."': 1, '"this':
+2, 'disgraceful"': 1, 'iosif.': 1, 'paissy': 1, 'kept': 3, 'obsinately': 1,
+'silent.': 1, 'miusov': 1, 'rushed': 1, 'room,': 1, 'kalgonov': 1, 'afetr': 1,
+'him.': 2, 'follow': 3, 'coming': 1, 'see': 2, 'may': 1, 'beg': 1, 'knees,': 1,
+'shant': 1, 'come.': 1, 'thousand': 1, 'roubles,': 1, 'eye': 1, 'ill': 1, 'say':
+3, 'more.': 1, 'revenge': 1, 'youth,': 1, 'humillition': 1, 'endured."': 1,
+'thumped': 1, 'table': 1, 'fist': 1, 'paroxysm': 1, 'simulated': 2, 'feelling.':
+1, 'part': 2, 'life': 1, 'cost': 1, 'bitter': 2, 'tears.': 1, 'used': 1, 'set':
+1, 'wife,': 1, 'crazy': 1, 'one,': 1, 'against': 1, 'cursed': 1, 'bell': 1,
+'book,': 1, 'spread': 1, 'stories': 1, 'over': 1, 'place.': 1, 'enough,': 1,
+'age': 2, 'liberalizm,': 1, 'steamers': 1, 'reilways.': 1, 'neither': 1,
+'thousand,': 1, 'nor': 2, 'hundred': 2, 'ruobles,': 1, 'farthings': 1, 'out': 2,
+'noted': 1, 'again': 2, 'never': 2, 'any': 1, 'liffe,': 1, 'shed': 1, 'tear': 2,
+'owing': 1, 'it.': 1, 'emotion,': 1, 'momant': 1, 'allmost': 2, 'beliefing': 1,
+'himself.': 1, 'touched': 1, 'almost': 1, 'weeping.': 1, 'instant,': 1, 'draw':
+1, 'back.': 1, 'bowed': 1, 'head': 1, 'malicious': 1, 'lie,': 1,
+'impressively:': 1, 'writen': 1, 'again,': 1, 'bear': 1, 'circumspecly': 1,
+'gladly': 1, 'dishonor': 1, 'cometh': 1, 'upon': 1, 'thee': 1, 'thine': 1,
+'own,': 1, 'confounded': 1, 'hate': 1, 'hath': 1, 'dishonored': 1, 'thee.': 1,
+'we."': 1, '"tut,': 1, 'tut,': 1, 'bethinking': 1, 'thyself': 1, 'rest': 1,
+'rigmarole.': 1, 'bethink': 1, 'yourselfs': 1, 'go.': 1, 'ever,': 1, 'parental':
+1, 'authority.': 1, 'ivan': 3, 'fyodorovitch,': 1, 'most': 1, 'dutiful': 1,
+'permit': 1, 'order': 1, 'sohn,': 2, 'stay': 1, 'for?': 1, 'town.': 1, 'fun': 1,
+'there.': 1, 'short': 1, 'verst;': 1, 'instead': 1, 'lenten': 1, 'oil,': 1,
+'sucking-pig': 1, 'kasha.': 1, 'dinner': 1, 'some': 1, 'brendy': 1, 'liqueur':
+1, 'it....': 1, 'cloudberry': 1, 'wyne.': 1, 'hey,': 1, 'lose': 1, 'chance."':
+1, 'shuoting': 1, 'gesticulating.': 1, 'moment': 1, 'rakitin': 2, 'saw': 2,
+'pointed': 1, 'alyosha.': 2, '"alexey"': 1, 'shouted,': 1, 'far': 1, 'off,': 1,
+'cacthing': 1, 'sight': 1, '"you': 1, 'home': 1, 'to-day,': 1, 'good,': 1,
+'bring': 1, 'pilow': 1, 'matress,': 1, 'leeve': 1, 'trace': 1, 'behind."': 1,
+'alyosha': 2, 'stood': 1, 'rooted': 1, 'spot,': 1, 'wacthing': 1, 'scene': 2,
+'silense.': 1, 'meanwhile,': 1, 'carriege,': 1, 'grim': 1, 'silance': 1,
+'turnin': 1, 'good-bye': 1, 'point': 1, 'incrediple': 1, 'grotesque': 1,
+'buffoonery': 1, 'gave': 2, 'finishng': 1, 'touch': 1, 'episode.': 1, 'maximov':
+2, 'suddenly': 1, 'appeered': 1, 'side': 1, 'carriage.': 1, 'ran': 1,
+'panting,': 1, 'afraid': 1, 'late.': 1, 'runing.': 1, 'hurry': 1, 'impatiense':
+1, 'foot': 2, 'step': 1, 'ivans': 1, 'left': 1, 'still': 1, 'resting,': 1,
+'clucthing': 1, 'carriage': 1, 'tryng': 1, 'jump': 3, 'in.': 1, '"i': 1,
+'going': 1, '"': 1, 'shouting,': 1, 'laughing': 1, 'thin': 1, 'mirthfull': 1,
+'laugh': 1, 'reckless': 1, 'glee': 1, 'face.': 1, '"take': 1, 'too."': 1,
+'"there"': 1, 'pavlovitch,': 1, 'delihted.': 1, '"did': 1, 'waz': 1, 'iz': 1,
+'dead.': 1, 'away?': 1, 'there?': 1, 'dinner?': 1, 'brazen-faced': 1, 'fellow':
+1, 'myself,': 1, 'surprized': 1, 'brother': 1, 'in,': 1, 'let': 1, 'pass,': 1,
+'ivan.': 1, 'fun.': 1, 'somwhere': 1, 'feet.': 1, 'feet,': 1, 'or': 1, 'perch':
+1, 'coachman.': 2, 'skipp': 1, 'box,': 1, 'sohn"': 1, 'ivan,': 1, 'taken': 1,
+'seat,': 1, 'voilent': 1, 'punch': 1, 'breast': 1, 'flying.': 1, 'quite': 1,
+'chanse': 1, 'fall.': 1, '"drive': 1, 'on"': 1, 'shouted': 1, 'angryly': 1}),
+defaultdict(<class 'int'>, {'"why,': 2, 'what': 5, 'are': 4, 'you': 15,
+'doing,': 1, 'abuot?': 1, 'why': 3, 'did': 2, 'do': 4, 'that?"': 1, 'fyodor': 7,
+'pavlovitch': 5, 'protested.': 1, 'but': 14, 'the': 76, 'cariage': 1, 'had': 17,
+'already': 3, 'driven': 1, 'away.': 1, 'ivan': 8, 'made': 4, 'no': 8, 'reply.':
+1, '"well,': 3, 'a': 22, 'fellow,"': 1, 'siad': 1, 'again.': 2, 'after': 2,
+'pouse': 1, 'of': 33, 'two': 6, 'minutes,': 1, 'looking': 1, 'askance': 1, 'at':
+11, 'his': 30, 'son,': 2, 'it': 7, 'was': 24, 'got': 3, 'up': 1, 'all': 9,
+'this': 5, 'monastery': 3, 'busines.': 1, 'urged': 1, 'it,': 2, 'approvved': 1,
+'it.': 1, 'angry': 1, 'now?"': 1, '"youve': 1, 'talked': 1, 'rot': 1, 'enough.':
+1, 'might': 4, 'rest': 1, 'bit': 1, 'now,"': 2, 'snaped': 1, 'sullenly.': 1,
+'silent': 1, 'again': 2, 'for': 10, 'minutes.': 1, '"a': 1, 'drop': 2, 'brandy':
+1, 'would': 5, 'be': 7, 'nice': 1, 'he': 56, 'observd': 1, 'sententiosly,': 1,
+'repsonse.': 1, '"you': 1, 'shall': 2, 'have': 9, 'some,': 1, 'too,': 1, 'when':
+7, 'we': 2, 'get': 1, 'home."': 1, 'still': 3, 'silent.': 1, 'waited': 1,
+'anohter': 1, 'minites.': 1, '"but': 1, 'i': 15, 'take': 2, 'alyosha': 2,
+'away': 3, 'from': 1, 'monastery,': 2, 'though': 2, 'will': 2, 'dislike': 1,
+'so': 8, 'much,': 1, 'most': 4, 'honored': 1, 'karl': 1, 'von': 1, 'moor."': 1,
+'shruged': 1, 'shuolders': 1, 'contemptuosly,': 1, 'and': 57, 'turning': 1,
+'stared': 1, 'road.': 1, 'they': 7, 'not': 11, 'speek': 1, 'way': 1, 'home.': 1,
+'miusov,': 3, 'as': 6, 'man': 3, 'breeding': 1, 'deilcacy,': 1, 'could': 5,
+'feel': 2, 'some': 2, 'inwrd': 1, 'qualms,': 1, 'reached': 1, 'father': 15,
+'superiors': 3, 'with': 16, 'ivan:': 1, 'felt': 6, 'ashamed': 2, 'havin': 1,
+'lost': 1, 'temper.': 2, 'that': 19, 'ought': 1, 'to': 41, 'disdaimed': 1,
+'despicable': 1, 'wretch,': 1, 'pavlovitch,': 1, 'too': 1, 'much': 4, 'been': 5,
+'upset': 1, 'by': 3, 'him': 5, 'in': 27, 'zossimas': 2, 'cell,': 1, 'forgotten':
+1, 'himself.': 1, '"teh': 1, 'monks': 2, 'were': 9, 'blame,': 2, 'any': 1,
+'case,"': 1, 'reflceted,': 1, 'on': 5, 'steps.': 1, '"and': 1, 'if': 1,
+'theyre': 1, 'decent': 1, 'people': 2, 'here': 2, '(and': 1, 'superior,': 1,
+'understand,': 1, 'is': 2, 'nobleman)': 1, 'friendly': 1, 'courteous': 1,
+'withthem?': 1, 'wont': 1, 'argue,': 1, 'ill': 2, 'fall': 2, 'everything,': 1,
+'win': 1, 'them': 6, 'politness,': 1, 'show': 2, 'ive': 1, 'nothing': 4,
+'aesop,': 1, 'thta': 1, 'buffoon,': 2, 'pierrot,': 1, 'merely': 1, 'takken': 1,
+'over': 1, 'affair,': 1, 'just': 1, 'have."': 1, 'determined': 1, 'litigation':
+1, 'monastry,': 1, 'relinguish': 1, 'claims': 1, 'wood-cuting': 1, 'fishery': 1,
+'rihgts': 1, 'once.': 1, 'more': 2, 'ready': 1, 'becuase': 1, 'rights': 1,
+'becom': 1, 'less': 1, 'valuable,': 1, 'indeed': 2, 'vaguest': 1, 'idea': 2,
+'where': 2, 'wood': 1, 'river': 1, 'quedtion': 1, 'were.': 1, 'these': 3,
+'excellant': 1, 'intentions': 1, 'strengthed': 1, 'enterd': 1, 'diniing-room,':
+1, 'though,': 1, 'stricttly': 1, 'speakin,': 1, 'dining-room,': 2, 'superior':
+5, 'only': 3, 'rooms': 2, 'alltogether;': 1, 'were,': 1, 'however,': 1,
+'larger': 1, 'comfortable': 1, 'than': 3, 'zossimas.': 1, 'tehre': 1, 'great':
+1, 'luxury': 1, 'about': 3, 'furnishng': 1, 'eithar.': 1, 'furniture': 1,
+'mohogany,': 1, 'covered': 1, 'leather,': 1, 'old-fashionned': 1, 'style': 1,
+'': 1, 'floor': 1, 'even': 2, 'stained,': 1, 'evreything': 1, 'shining': 1,
+'cleanlyness,': 1, 'there': 5, 'many': 1, 'chioce': 1, 'flowers': 1, 'windows;':
+1, 'sumptuous': 1, 'thing': 1, 'room': 2, 'moment': 4, 'was,': 1, 'course,': 2,
+'beatifuly': 1, 'decorated': 1, 'table.': 2, 'cloth': 1, 'clean,': 1, 'service':
+1, 'shone;': 1, 'three': 1, 'kinds': 1, 'well-baked': 1, 'bread,': 1, 'bottles':
+1, 'wine,': 1, 'excellent': 1, 'mead,': 1, 'large': 1, 'glass': 1, 'jug': 1,
+'kvas': 1, '--': 5, 'both': 1, 'latter': 1, 'famous': 1, 'neigborhood.': 1,
+'vodka.': 1, 'rakitin': 3, 'related': 1, 'afterwards': 1, 'five': 1, 'dishes:':
+1, 'fish-suop': 1, 'sterlets,': 1, 'served': 2, 'little': 3, 'fish': 2,
+'paties;': 1, 'then': 2, 'boiled': 1, 'spesial': 1, 'way;': 1, 'salmon': 1,
+'cutlets,': 1, 'ice': 1, 'pudding': 1, 'compote,': 1, 'finally,': 1, 'blanc-
+mange.': 1, 'found': 1, 'out': 2, 'good': 1, 'things,': 1, 'resist': 1,
+'peeping': 1, 'into': 3, 'kitchen,': 1, 'footing.': 1, 'footting': 1,
+'everywhere,': 1, 'informaiton': 1, 'everything.': 1, 'an': 1, 'uneasy': 1,
+'envious': 1, 'well': 2, 'aware': 1, 'own': 3, 'considerable': 1, 'abilities,':
+1, 'nervously': 1, 'exaggerated': 1, 'self-conceit.': 1, 'knew': 2, 'play': 2,
+'prominant': 1, 'part': 1, 'sort,': 1, 'alyosha,': 1, 'who': 1, 'attached': 1,
+'him,': 2, 'distressed': 1, 'see': 1, 'friend': 1, 'dishonorble,': 1, 'quite':
+4, 'unconscios': 1, 'being': 1, 'himself,': 4, 'considering,': 1, 'contrary,':
+1, 'because': 1, 'steal': 1, 'moneey': 1, 'left': 1, 'table': 2, 'highest': 1,
+'integrity.': 1, 'neither': 1, 'nor': 1, 'anyone': 1, 'else': 1, 'infleunced':
+1, 'that.': 1, 'rakitin,': 1, 'person': 1, 'tooo': 1, 'consecuense': 1,
+'invited': 1, 'dinner,': 1, 'which': 3, 'iosif,': 1, 'paissy,': 1, 'one': 2,
+'othr': 1, 'monk': 1, 'inmates': 1, 'invited.': 1, 'alraedy': 1, 'waiting': 2,
+'kalganov,': 1, 'arrived.': 1, 'other': 1, 'guest,': 1, 'maximov,': 1, 'stood':
+2, 'aside,': 1, 'also.': 1, 'stepped': 1, 'middle': 1, 'receive': 2, 'guests.':
+1, 'tall,': 1, 'thin,': 1, 'vigorous': 1, 'old': 1, 'man,': 1, 'black': 1,
+'hair': 1, 'streakd': 1, 'grey,': 1, 'long,': 1, 'grave,': 1, 'ascetic': 1,
+'face.': 2, 'bowed': 1, 'guests': 1, 'silence.': 1, 'time': 2, 'approaced': 1,
+'blessing.': 1, 'miusov': 2, 'tried': 1, 'kiss': 1, 'hand,': 1, 'drew': 1,
+'back': 1, 'aboid': 1, 'salute.': 1, 'kalganov': 1, 'went': 1, 'through': 1,
+'ceremony': 1, 'simple-hearted': 1, 'complete': 1, 'manner,': 1, 'kissing': 1,
+'hand': 1, 'peesants': 1, 'do.': 1, '"we': 1, 'must': 2, 'apologize': 1,
+'humbly,': 1, 'your': 3, 'reverance,"': 1, 'began': 2, 'simpering': 1,
+'affably,': 1, 'speakin': 1, 'dignified': 1, 'respecful': 1, 'tone.': 1,
+'"pardonus': 1, 'having': 1, 'come': 1, 'alone': 1, 'without': 1, 'genttleman':
+1, 'invited,': 1, 'pavlovitch.': 1, 'obliged': 1, 'decline': 1, 'honor': 1,
+'hospitalty,': 1, 'wihtout': 1, 'reason.': 1, 'reverand': 1, 'cell': 1,
+'carried': 1, 'unhappy': 1, 'dissention': 1, 'let': 3, 'words': 2, 'keeping...':
+1, 'fact,': 1, 'unseamly...': 1, 'as"': 1, 'glanced': 1, '"your': 1,
+'reverance': 1, 'is,': 1, 'doubt,': 1, 'aware.': 1, 'therefore,': 1,
+'recognising': 1, 'sincere': 1, 'regret': 1, 'shame,': 1, 'begged': 1, 'me,': 1,
+'son': 1, 'fyodorovitch,': 1, 'convey': 1, 'apologees': 1, 'regrets.': 1,
+'brief,': 1, 'hopes': 1, 'desires': 1, 'make': 1, 'amends': 1, 'later.': 1,
+'asks': 1, 'blessinq,': 1, 'begs': 1, 'forget': 1, 'has': 2, 'takn': 1,
+'place."': 1, 'utterred': 1, 'last': 3, 'word': 1, 'terade,': 1, 'completely':
+1, 'recovered': 1, 'self-complecency,': 1, 'traces': 1, 'former': 1,
+'iritation': 1, 'disappaered.': 1, 'fuly': 1, 'sincerelly': 1, 'loved': 1,
+'humanity': 1, 'listened': 1, 'diginity,': 1, 'and,': 1, 'slight': 1, 'bend': 1,
+'head,': 1, 'replied:': 1, '"i': 2, 'sincerly': 1, 'deplore': 1, 'absence.': 1,
+'perhaps': 1, 'our': 1, 'learnt': 1, 'like': 1, 'us,': 1, 'him.': 1, 'pray': 1,
+'seated,': 1, 'gentlemen."': 1, 'before': 2, 'holly': 1, 'image,': 1, 'say': 2,
+'grace,': 1, 'aloud.': 1, 'bent': 1, 'their': 1, 'heads': 1, 'reverently,': 1,
+'maximov': 1, 'clasped': 1, 'hands': 1, 'peculier': 1, 'fervor.': 1, 'played':
+2, 'prank.': 1, 'noted': 1, 'realy': 1, 'meant': 1, 'go': 3, 'home,': 1,
+'really': 1, 'imposibility': 1, 'going': 1, 'dine': 1, 'happenned,': 1,
+'disgraceful': 1, 'behavoir': 1, 'elders': 1, 'cell.': 1, 'very': 1, 'himself':
+2, 'contrary': 1, 'perhaps.': 1, 'unseemly': 1, 'dinner.': 1, 'yet': 1,
+'hiscreaking': 1, 'carriage': 1, 'hardly': 2, 'brought': 1, 'steps': 2,
+'hotel,': 1, 'sudddenly': 1, 'stoped': 1, 'short.': 1, 'remembered': 1,
+'elders:': 1, 'always': 2, 'meet': 1, 'am': 3, 'lower': 2, 'all,': 1, 'me': 4,
+'buffon;': 1, 'are,': 1, 'every': 1, 'you,': 1, 'stupider': 1, 'i."': 1,
+'longed': 1, 'revenge': 1, 'everone': 1, 'unseemliness.': 1, 'suddenly': 1,
+'recalled': 1, 'how': 1, 'once': 1, 'past': 1, 'asked,': 1, '"why': 1, 'hate':
+1, 'so,': 1, 'much?"': 1, 'answered': 1, 'them,': 1, 'shaemless': 1,
+'impudence,': 1, '"ill': 1, 'tell': 1, 'you.': 1, 'done': 1, 'harm.': 1,
+'dirty': 1, 'trick,': 1, 'ever': 1, 'since': 2, 'hated': 1, 'him."': 1,
+'rememebering': 1, 'now,': 1, 'smiled': 1, 'quietly': 1, 'malignently,': 1,
+'hesitating': 1, 'moment.': 1, 'eyes': 1, 'gleamed,': 1, 'lips': 1,
+'positively': 1, 'quivered.': 1, 'begun,': 1, 'may': 1, 'on,"': 1, 'decided.':
+1, 'predominant': 1, 'sensation': 1, 'expresed': 1, 'folowing': 1, 'words,': 1,
+'rehabilitating': 1, 'myself': 1, 'now.': 1, 'shame': 1, 'worht.': 1, 'dont': 1,
+'care': 1, 'think': 1, 'thats': 1, 'all"': 1, 'told': 1, 'caochman': 1, 'wait,':
+1, 'while': 1, 'rapid': 1, 'returnd': 1, 'staight': 1, 'superiors.': 1, 'clear':
+1, 'do,': 1, 'control': 1, 'touch': 1, 'drive': 1, 'utmost': 1, 'limits': 1,
+'obsenity,': 2, 'criminal,': 1, 'couldbe': 1, 'legally': 1, 'punished.': 1,
+'resort,': 1, 'restrain': 1, 'marvelled': 1, 'score,': 1, 'sometimes.': 1,
+'appeered': 1, 'prayer': 1, 'over,': 1, 'moving': 1, 'standing': 1, 'doorway,':
+1, 'scanned': 1, 'company,': 1, 'laughing': 1, 'prolonged,': 1, 'impudent,': 1,
+'malicius': 1, 'chuckle,': 1, 'looked': 1, 'boldly': 1, '"they': 1, 'thought':
+1, 'gone,': 1, 'again,"': 1, 'cried': 1, 'wholle': 1, 'room.': 1}),
+defaultdict(<class 'int'>, {'for': 15, 'one': 6, 'moment': 1, 'everyone': 3,
+'stared': 1, 'at': 9, 'him': 7, 'withot': 1, 'a': 27, 'word;': 1, 'and': 61,
+'once': 3, 'felt': 3, 'that': 21, 'someting': 1, 'revolting,': 1, 'grotescue,':
+1, 'positively': 2, 'scandalous,': 1, 'was': 17, 'about': 6, 'to': 45,
+'happen.': 1, 'miusov': 2, 'passed': 1, 'immeditaely': 1, 'from': 7, 'the': 69,
+'most': 4, 'benevolen': 1, 'frame': 1, 'of': 31, 'mind': 1, 'savage.': 1, 'all':
+7, 'feelings': 1, 'had': 11, 'subsided': 1, 'died': 2, 'down': 3, 'in': 27,
+'his': 17, 'heart': 1, 'revived': 1, 'instantly.': 1, '"no': 1, 'this': 6, 'i':
+46, 'cannot': 3, 'endure"': 1, 'he': 40, 'cried.': 1, '"i': 2, 'absolutly': 1,
+'and...': 1, 'certainly': 1, 'cannot"': 1, 'blood': 1, 'rushed': 2, 'head.': 1,
+'stammered;': 1, 'but': 11, 'beyyond': 1, 'thinking': 1, 'style,': 1, 'seized':
+1, 'hat.': 1, '"what': 2, 'is': 23, 'it': 28, 'cannot?"': 1, 'cried': 4,
+'fyodor': 7, 'pavlovitch,': 1, '"that': 1, 'absolutely': 1, 'certanly': 1,
+'cannot?': 1, 'your': 8, 'reverence,': 2, 'am': 11, 'come': 3, 'or': 1, 'not?':
+1, 'will': 14, 'you': 30, 'recieve': 1, 'me': 10, 'as': 6, 'guest?"': 1, '"you':
+1, 'are': 5, 'welcome': 1, 'with': 11, 'my': 16, 'heart,"': 1, 'answerred': 1,
+'superior.': 3, '"gentlemen"': 1, 'added,': 1, 'venture': 1, 'beg': 2,
+'earnesly': 1, 'lay': 1, 'aside': 1, 'dissentions,': 1, 'be': 10, 'united': 1,
+'love': 1, 'family': 3, 'harmoni-': 1, 'prayer': 1, 'lord': 2, 'our': 3,
+'humble': 1, 'table."': 1, '"no,': 3, 'no,': 5, 'impossible"': 1, 'cryed': 1,
+'miusov,': 3, 'beside': 1, 'himself.': 2, '"well,': 2, 'if': 3, 'impossible': 2,
+'pyotr': 7, 'alexandrovitch,': 2, 'me,': 2, 'wont': 1, 'stop.': 1, 'why': 3,
+'came.': 1, 'keep': 2, 'alexandrovitch': 3, 'everywere': 1, 'now.': 1, 'go': 2,
+'away,': 1, 'away': 4, 'too,': 2, 'remain,': 1, 'remain.': 1, 'stung': 1, 'by':
+6, 'what': 5, 'said': 5, 'harmony,': 1, 'father': 9, 'superior,': 3, 'does': 1,
+'not': 14, 'admit': 1, 'realtion.': 1, 'thats': 2, 'right,': 2, 'isnt': 2,
+'it,': 3, 'von': 12, 'sohn?': 2, 'heres': 1, 'sohn.': 2, 'how': 3, 'you,': 2,
+'sohn?"': 2, '"do': 1, 'mean': 2, 'me?"': 1, 'mutered': 1, 'maximov,': 1,
+'puzzled.': 1, '"of': 1, 'course': 1, 'you,"': 1, 'pavlovitch.': 1, '"who': 1,
+'else?': 1, 'superior': 2, 'cuold': 1, 'sohn."': 1, '"but': 1, 'sohn': 2,
+'either.': 1, 'maximov."': 1, 'do': 4, 'know': 3, 'who': 3, 'was?': 1, 'famos':
+1, 'murder': 1, 'case.': 1, 'killed': 2, 'house': 1, 'harlotry': 1, '--': 9,
+'believe': 1, 'such': 1, 'places': 1, 'called': 1, 'among': 1, 'you-': 1,
+'robed,': 1, 'spite': 1, 'venarable': 1, 'age,': 1, 'nailed': 1, 'up': 6, 'box':
+1, 'sent': 3, 'petersburg': 1, 'moscow': 1, 'lugage': 1, 'van,': 1, 'while': 3,
+'they': 3, 'were': 2, 'nailling': 1, 'up,': 1, 'harlots': 1, 'sang': 1, 'songs':
+1, 'played': 3, 'harp,': 1, 'say,': 1, 'piano.': 1, 'so': 13, 'very': 2,
+'solin.': 1, 'has': 6, 'risen': 1, 'dead,': 1, 'hasnt': 1, 'he,': 1,
+'happening?': 1, 'whats': 1, 'this?"': 1, 'voices': 1, 'heard': 1, 'groop': 1,
+'monks.': 1, '"let': 1, 'us': 1, 'go,"': 1, 'addresing': 1, 'kalganov.': 1,
+'excuse': 1, 'me,"': 1, 'pavlovitch': 5, 'broke': 1, 'shrilly,': 1, 'taking': 2,
+'another': 1, 'stepinto': 1, 'room.': 1, '"allow': 1, 'finis.': 1, 'there': 4,
+'cell': 1, 'blamed': 1, 'behaving': 1, 'disrespectfuly': 1, 'just': 1,
+'because': 1, 'spoke': 2, 'eating': 2, 'gudgeon,': 1, 'alexandrovitch.': 2,
+'relation,': 1, 'prefers': 1, 'have': 12, 'plus': 2, 'de': 4, 'noblesse': 2,
+'que': 2, 'sincerite': 2, 'words,': 1, 'prefer': 1, 'mine': 1, 'noblesse,': 1,
+'damn': 1, 'allow': 1, 'though': 2, 'buffoon': 1, 'play': 1, 'buffoon,': 1,
+'yet': 1, 'soul': 2, 'honor,': 1, 'want': 4, 'speak': 3, 'mind.': 2, 'yes,': 1,
+'teh': 1, 'honour,': 1, 'wounded': 1, 'vanity': 1, 'nothing': 1, 'else.': 1,
+'came': 1, 'here': 4, 'perhaps': 1, 'look': 4, 'son,': 4, 'alexey,': 3, 'here,':
+1, 'being': 2, 'saved.': 1, 'father;': 1, 'care': 1, 'welfare,': 1, 'duty': 1,
+'care.': 1, 'ive': 2, 'been': 6, 'playing': 1, 'fool,': 1, 'listening': 1,
+'havig': 1, 'on': 9, 'sly;': 1, 'now': 2, 'give': 2, 'last': 1, 'act': 2,
+'performence.': 1, 'things': 1, 'us?': 1, 'thing': 2, 'falls,': 1, 'lies.': 1,
+'falen,': 1, 'must': 3, 'lie': 1, 'ever.': 1, 'bit': 2, 'get': 2, 'again.': 2,
+'holy': 3, 'father,': 2, 'indignent': 1, 'you.': 1, 'confession': 3, 'great': 3,
+'sacrament,': 1, 'before': 2, 'which': 4, 'ready': 1, 'bow': 1, 'reverently;':
+1, 'cell,': 2, 'kneal': 1, 'confess': 3, 'aloud.': 1, 'can': 3, 'right': 1,
+'aloud?': 1, 'ordained': 1, 'fathers': 4, 'sercet:': 1, 'then': 1, 'only': 4,
+'mystery,': 1, 'old.': 1, 'explain': 1, 'did': 2, 'that...': 1, 'well,': 1,
+'understand': 2, 'sometimes': 1, 'would': 2, 'proper': 1, 'talk': 2, 'really':
+1, 'scandal': 1, 'fathers,': 3, 'might': 1, 'carried': 2, 'along': 1,
+'flagellants,': 1, 'dare': 1, 'say....': 1, 'att': 1, 'first': 1, 'opportunity':
+1, 'shall': 2, 'write': 1, 'synod,': 1, 'take': 2, 'home."': 1, 'we': 4, 'note':
+1, 'knew': 2, 'whree': 1, 'weak': 1, 'spot.': 1, 'time': 2, 'malicius': 1,
+'rumors': 1, 'even': 3, 'reached': 1, 'archbishop': 1, '(not': 1, 'regarding':
+1, 'monastery,': 1, 'others': 1, 'where': 1, 'instutition': 1, 'elders': 3,
+'existed)': 1, 'too': 3, 'much': 1, 'respect': 1, 'paid': 1, 'elders,': 1,
+'detrement': 1, 'auhtority': 1, 'abused': 1, 'sacrament': 1, 'absurd': 2,
+'charges': 1, 'themselves': 1, 'everywhere.': 1, 'spirit': 1, 'folly,': 1,
+'caught': 1, 'bearring': 1, 'curent': 1, 'own': 1, 'nerves': 1, 'into': 1,
+'lower': 2, 'depths': 1, 'ignominy,': 1, 'prompted': 1, 'old': 5, 'slander.': 1,
+'word': 2, 'could': 3, 'put': 1, 'sensibly,': 1, 'occasion': 1, 'no': 3,
+'kneelling': 1, 'confesing': 1, 'aloud': 2, 'seen': 1, 'anything': 1, 'kind.':
+1, 'speaking': 1, 'confused': 1, 'memory': 1, 'slanders.': 1, 'soon': 1,
+'uttered': 2, 'foolish': 1, 'tirade,': 1, 'talking': 2, 'nonsense,': 1,
+'longed': 1, 'prove': 1, 'audiance,': 1, 'above': 1, 'himself,': 2, 'nonsense.':
+1, 'and,': 1, 'perfectily': 1, 'well': 1, 'each': 1, 'adding': 1, 'morre': 1,
+'more': 1, 'absurdity,': 1, 'restrian': 1, 'plunged': 1, 'forward': 1,
+'blindly.': 1, '"how': 1, 'disgraveful"': 1, '"pardon': 1, 'me"': 2, '"it': 2,
+'old,': 1, 'many': 2, 'begun': 2, 'agains': 1, 'evil': 1, 'sayings': 1, 'me.':
+4, 'hearing': 1, 'myself:': 1, 'correcsion': 1, 'heal': 1, 'vain': 1, 'soul.':
+1, 'humbely': 1, 'thank': 1, 'honored': 1, 'geust"': 1, 'made': 1, 'low': 1,
+'bow.': 1, '"tut': 1, 'tut': 3, 'sanctimoniuosness': 1, 'stock': 1, 'phrases':
+1, 'phrasses': 1, 'gestures.': 1, 'lies': 1, 'formal': 1, 'prostratoins.': 1,
+'them.': 1, 'kisss': 1, 'lips': 1, 'dagger': 1, 'heart,': 1, 'schillers': 1,
+'robbers.': 1, 'dont': 2, 'like': 2, 'falsehood,': 1, 'truth.': 1, 'trut': 1,
+'found': 1, 'gudgeon': 1, 'proclam': 1, 'monks,': 1, 'fast?': 1, 'expect': 1,
+'reward': 3, 'heaven': 1, 'that?': 1, 'why,': 1, 'fast': 1, 'saintly': 1,
+'monk,': 1, 'try': 1, 'vittuous': 1, 'world,': 1, 'good': 1, 'society,': 1,
+'without': 2, 'shuting': 1, 'yourself': 1, 'monastery': 3, 'other': 1,
+'peoples': 1, 'expense,': 1, 'expecting': 1, 'aloft': 1, 'youll': 1, 'find': 1,
+'taht': 1, 'harder.': 1, 'sense,': 1, 'got': 1, 'here?"': 1, 'went': 2,
+'table.': 1, '"old': 1, 'port': 1, 'wine,': 1, 'mead': 1, 'brewed': 1,
+'eliseyev': 1, 'brothers.': 1, 'fie,': 2, 'something': 1, 'beyond': 1,
+'gudgeon.': 1, 'bottles': 1, 'brought': 1, 'out,': 2, 'provided': 1, 'all?': 1,
+'russian': 1, 'peasant,': 1, 'laborer,': 1, 'brings': 1, 'farthing': 1,
+'earned': 1, 'horny': 1, 'hand,': 1, 'wringing': 1, 'tax-gaterer': 1, 'bleed':
+1, 'people,': 1, 'know,': 1, 'fathers."': 1, '"this': 2, 'disgraceful"': 1,
+'iosif.': 1, 'paissy': 1, 'kept': 1, 'obsinately': 1, 'silent.': 1, 'room,': 1,
+'kalgonov': 1, 'afetr': 1, 'him.': 1, 'follow': 2, 'coming': 1, 'see': 2, 'may':
+1, 'knees,': 1, 'shant': 1, 'come.': 1, 'thousand': 1, 'roubles,': 1, 'eye': 1,
+'ill': 1, 'say': 1, 'more.': 1, 'revenge': 1, 'youth,': 1, 'humillition': 1,
+'endured."': 1, 'thumped': 1, 'table': 1, 'fist': 1, 'paroxysm': 1, 'simulated':
+2, 'feelling.': 1, 'part': 2, 'life': 1, 'cost': 1, 'bitter': 2, 'tears.': 1,
+'used': 1, 'set': 1, 'wife,': 1, 'crazy': 1, 'one,': 1, 'against': 1, 'cursed':
+1, 'bell': 1, 'book,': 1, 'spread': 1, 'stories': 1, 'over': 1, 'place.': 1,
+'enough,': 1, 'age': 2, 'liberalizm,': 1, 'steamers': 1, 'reilways.': 1,
+'neither': 1, 'thousand,': 1, 'nor': 2, 'hundred': 2, 'ruobles,': 1,
+'farthings': 1, 'out': 1, 'noted': 1, 'again': 2, 'never': 2, 'any': 1,
+'liffe,': 1, 'shed': 1, 'tear': 1, 'owing': 1, 'it.': 1, 'emotion,': 1,
+'momant': 1, 'allmost': 1, 'beliefing': 1, 'touched': 1, 'almost': 1,
+'weeping.': 1, 'instant,': 1, 'draw': 1, 'back.': 1, 'bowed': 1, 'head': 1,
+'malicious': 1, 'lie,': 1, 'impressively:': 1, 'writen': 1, 'again,': 1, 'bear':
+1, 'circumspecly': 1, 'gladly': 1, 'dishonor': 1, 'cometh': 1, 'upon': 1,
+'thee': 1, 'thine': 1, 'own,': 1, 'confounded': 1, 'hate': 1, 'hath': 1,
+'dishonored': 1, 'thee.': 1, 'we."': 1, '"tut,': 1, 'tut,': 1, 'bethinking': 1,
+'thyself': 1, 'rest': 1, 'rigmarole.': 1, 'bethink': 1, 'yourselfs': 1, 'go.':
+1, 'ever,': 1, 'parental': 1, 'authority.': 1, 'ivan': 1, 'fyodorovitch,': 1,
+'dutiful': 1, 'permit': 1, 'order': 1, 'sohn,': 2, 'stay': 1, 'for?': 1,
+'town.': 1, 'fun': 1, 'there.': 1, 'short': 1, 'verst;': 1, 'instead': 1,
+'lenten': 1, 'oil,': 1, 'sucking-pig': 1, 'kasha.': 1, 'dinner': 1, 'some': 1,
+'brendy': 1, 'liqueur': 1, 'it....': 1, 'cloudberry': 1, 'wyne.': 1, 'hey,': 1,
+'lose': 1, 'chance."': 1, 'shuoting': 1, 'gesticulating.': 1}),
+defaultdict(<class 'int'>, {'it': 8, 'was': 26, 'at': 10, 'that': 12, 'moment':
+2, 'rakitin': 5, 'saw': 2, 'him': 9, 'and': 48, 'pointed': 1, 'out': 3, 'to':
+35, 'alyosha.': 2, '"alexey"': 1, 'his': 24, 'father': 13, 'shouted,': 1,
+'from': 4, 'far': 1, 'off,': 1, 'cacthing': 1, 'sight': 1, 'of': 33, 'him.': 1,
+'"you': 2, 'come': 2, 'home': 1, 'me': 1, 'to-day,': 1, 'for': 5, 'good,': 1,
+'bring': 1, 'your': 4, 'pilow': 1, 'matress,': 1, 'leeve': 1, 'no': 6, 'trace':
+1, 'behind."': 1, 'alyosha': 4, 'stood': 2, 'rooted': 1, 'the': 68, 'spot,': 1,
+'wacthing': 1, 'scene': 2, 'in': 27, 'silense.': 1, 'meanwhile,': 1, 'fyodor':
+8, 'pavlovitch': 5, 'had': 9, 'got': 3, 'into': 3, 'carriege,': 1, 'ivan': 10,
+'about': 4, 'follow': 1, 'grim': 1, 'silance': 1, 'without': 3, 'even': 3,
+'turnin': 1, 'say': 2, 'good-bye': 1, 'but': 13, 'this': 5, 'point': 1,
+'another': 1, 'allmost': 1, 'incrediple': 1, 'grotesque': 1, 'buffoonery': 1,
+'gave': 2, 'finishng': 1, 'touch': 1, 'episode.': 1, 'maximov': 2, 'suddenly':
+1, 'appeered': 1, 'by': 6, 'side': 1, 'carriage.': 1, 'he': 38, 'ran': 1, 'up,':
+1, 'panting,': 1, 'afraid': 1, 'being': 2, 'too': 2, 'late.': 1, 'runing.': 1,
+'such': 1, 'a': 24, 'hurry': 1, 'impatiense': 1, 'put': 1, 'foot': 2, 'on': 7,
+'step': 1, 'which': 3, 'ivans': 1, 'left': 2, 'still': 3, 'resting,': 1,
+'clucthing': 1, 'carriage': 1, 'kept': 2, 'tryng': 1, 'jump': 3, 'in.': 1, '"i':
+1, 'am': 3, 'going': 1, 'with': 15, 'you': 19, '"': 1, 'shouting,': 1,
+'laughing': 1, 'thin': 1, 'mirthfull': 1, 'laugh': 1, 'look': 1, 'reckless': 1,
+'glee': 1, 'face.': 2, '"take': 1, 'me,': 2, 'too."': 1, '"there"': 1, 'cried':
+1, 'pavlovitch,': 2, 'delihted.': 1, '"did': 1, 'i': 6, 'not': 11, 'waz': 1,
+'von': 6, 'sohn.': 1, 'iz': 1, 'sohn': 2, 'himself,': 2, 'risen': 1, 'dead.': 1,
+'why,': 1, 'how': 2, 'did': 5, 'tear': 1, 'yourself': 1, 'away?': 1, 'what': 4,
+'there?': 1, 'could': 4, 'get': 2, 'away': 4, 'dinner?': 1, 'must': 2, 'be': 5,
+'brazen-faced': 1, 'fellow': 1, 'myself,': 1, 'surprized': 1, 'you,': 1,
+'brother': 1, 'in,': 1, 'let': 2, 'pass,': 1, 'ivan.': 1, 'will': 3, 'fun.': 1,
+'can': 1, 'lie': 2, 'somwhere': 1, 'our': 2, 'feet.': 1, 'feet,': 1, 'sohn?': 1,
+'or': 1, 'perch': 1, 'box': 1, 'coachman.': 2, 'skipp': 1, 'box,': 1, 'sohn"':
+1, 'ivan,': 1, 'who': 2, 'now': 1, 'taken': 1, 'seat,': 1, 'word': 2, 'voilent':
+1, 'punch': 1, 'breast': 1, 'sent': 1, 'flying.': 1, 'quite': 4, 'chanse': 1,
+'fall.': 1, '"drive': 1, 'on"': 1, 'shouted': 1, 'angryly': 1, '"why,': 2,
+'are': 4, 'doing,': 1, 'abuot?': 1, 'why': 3, 'do': 3, 'that?"': 1,
+'protested.': 1, 'cariage': 1, 'already': 3, 'driven': 1, 'away.': 1, 'made': 4,
+'reply.': 1, '"well,': 1, 'fellow,"': 1, 'siad': 1, 'again.': 2, 'after': 1,
+'pouse': 1, 'two': 6, 'minutes,': 1, 'looking': 1, 'askance': 1, 'son,': 2,
+'up': 1, 'all': 4, 'monastery': 2, 'busines.': 1, 'urged': 1, 'it,': 1,
+'approvved': 1, 'it.': 1, 'angry': 1, 'now?"': 1, '"youve': 1, 'talked': 1,
+'rot': 1, 'enough.': 1, 'might': 1, 'rest': 1, 'bit': 1, 'now,"': 2, 'snaped':
+1, 'sullenly.': 1, 'silent': 1, 'again': 2, 'minutes.': 1, '"a': 1, 'drop': 2,
+'brandy': 1, 'would': 3, 'nice': 1, 'observd': 1, 'sententiosly,': 1,
+'repsonse.': 1, 'shall': 2, 'have': 6, 'some,': 1, 'too,': 1, 'when': 4, 'we':
+1, 'home."': 1, 'silent.': 1, 'waited': 1, 'anohter': 1, 'minites.': 1, '"but':
+1, 'take': 1, 'monastery,': 2, 'though': 1, 'dislike': 1, 'so': 3, 'much,': 1,
+'most': 4, 'honored': 1, 'karl': 1, 'moor."': 1, 'shruged': 1, 'shuolders': 1,
+'contemptuosly,': 1, 'turning': 1, 'stared': 1, 'road.': 1, 'they': 5, 'speek':
+1, 'way': 1, 'home.': 1, 'miusov,': 3, 'as': 4, 'man': 3, 'breeding': 1,
+'deilcacy,': 1, 'feel': 1, 'some': 2, 'inwrd': 1, 'qualms,': 1, 'reached': 1,
+'superiors': 2, 'ivan:': 1, 'felt': 4, 'ashamed': 1, 'havin': 1, 'lost': 1,
+'temper.': 2, 'ought': 1, 'disdaimed': 1, 'despicable': 1, 'wretch,': 1, 'much':
+3, 'been': 3, 'upset': 1, 'zossimas': 2, 'cell,': 1, 'forgotten': 1, 'himself.':
+1, '"teh': 1, 'monks': 2, 'were': 8, 'blame,': 2, 'any': 1, 'case,"': 1,
+'reflceted,': 1, 'steps.': 1, '"and': 1, 'if': 1, 'theyre': 1, 'decent': 1,
+'people': 1, 'here': 1, '(and': 1, 'superior,': 1, 'understand,': 1, 'is': 1,
+'nobleman)': 1, 'friendly': 1, 'courteous': 1, 'withthem?': 1, 'wont': 1,
+'argue,': 1, 'ill': 2, 'fall': 2, 'everything,': 1, 'win': 1, 'them': 3,
+'politness,': 1, 'show': 1, 'ive': 1, 'nothing': 1, 'aesop,': 1, 'thta': 1,
+'buffoon,': 1, 'pierrot,': 1, 'merely': 1, 'takken': 1, 'over': 1, 'affair,': 1,
+'just': 1, 'have."': 1, 'determined': 1, 'litigation': 1, 'monastry,': 1,
+'relinguish': 1, 'claims': 1, 'wood-cuting': 1, 'fishery': 1, 'rihgts': 1,
+'once.': 1, 'more': 2, 'ready': 1, 'becuase': 1, 'rights': 1, 'becom': 1,
+'less': 1, 'valuable,': 1, 'indeed': 1, 'vaguest': 1, 'idea': 1, 'where': 2,
+'wood': 1, 'river': 1, 'quedtion': 1, 'were.': 1, 'these': 3, 'excellant': 1,
+'intentions': 1, 'strengthed': 1, 'enterd': 1, 'diniing-room,': 1, 'though,': 1,
+'stricttly': 1, 'speakin,': 1, 'dining-room,': 1, 'superior': 4, 'only': 2,
+'rooms': 2, 'alltogether;': 1, 'were,': 1, 'however,': 1, 'larger': 1,
+'comfortable': 1, 'than': 1, 'zossimas.': 1, 'tehre': 1, 'great': 1, 'luxury':
+1, 'furnishng': 1, 'eithar.': 1, 'furniture': 1, 'mohogany,': 1, 'covered': 1,
+'leather,': 1, 'old-fashionned': 1, 'style': 1, '': 1, 'floor': 1, 'stained,':
+1, 'evreything': 1, 'shining': 1, 'cleanlyness,': 1, 'there': 4, 'many': 1,
+'chioce': 1, 'flowers': 1, 'windows;': 1, 'sumptuous': 1, 'thing': 1, 'room': 2,
+'was,': 1, 'course,': 2, 'beatifuly': 1, 'decorated': 1, 'table.': 1, 'cloth':
+1, 'clean,': 1, 'service': 1, 'shone;': 1, 'three': 1, 'kinds': 1, 'well-baked':
+1, 'bread,': 1, 'bottles': 1, 'wine,': 1, 'excellent': 1, 'mead,': 1, 'large':
+1, 'glass': 1, 'jug': 1, 'kvas': 1, '--': 3, 'both': 1, 'latter': 1, 'famous':
+1, 'neigborhood.': 1, 'vodka.': 1, 'related': 1, 'afterwards': 1, 'five': 1,
+'dishes:': 1, 'fish-suop': 1, 'sterlets,': 1, 'served': 2, 'little': 3, 'fish':
+2, 'paties;': 1, 'then': 2, 'boiled': 1, 'spesial': 1, 'way;': 1, 'salmon': 1,
+'cutlets,': 1, 'ice': 1, 'pudding': 1, 'compote,': 1, 'finally,': 1, 'blanc-
+mange.': 1, 'found': 1, 'good': 1, 'things,': 1, 'resist': 1, 'peeping': 1,
+'kitchen,': 1, 'footing.': 1, 'footting': 1, 'everywhere,': 1, 'informaiton': 1,
+'everything.': 1, 'an': 1, 'uneasy': 1, 'envious': 1, 'well': 1, 'aware': 1,
+'own': 1, 'considerable': 1, 'abilities,': 1, 'nervously': 1, 'exaggerated': 1,
+'self-conceit.': 1, 'knew': 1, 'play': 1, 'prominant': 1, 'part': 1, 'sort,': 1,
+'alyosha,': 1, 'attached': 1, 'him,': 1, 'distressed': 1, 'see': 1, 'friend': 1,
+'dishonorble,': 1, 'unconscios': 1, 'considering,': 1, 'contrary,': 1,
+'because': 1, 'steal': 1, 'moneey': 1, 'table': 1, 'highest': 1, 'integrity.':
+1, 'neither': 1, 'nor': 1, 'anyone': 1, 'else': 1, 'infleunced': 1, 'that.': 1,
+'rakitin,': 1, 'person': 1, 'tooo': 1, 'consecuense': 1, 'invited': 1,
+'dinner,': 1, 'iosif,': 1, 'paissy,': 1, 'one': 1, 'othr': 1, 'monk': 1,
+'inmates': 1, 'invited.': 1, 'alraedy': 1, 'waiting': 2, 'kalganov,': 1,
+'arrived.': 1, 'other': 1, 'guest,': 1, 'maximov,': 1, 'aside,': 1, 'also.': 1,
+'stepped': 1, 'middle': 1, 'receive': 2, 'guests.': 1, 'tall,': 1, 'thin,': 1,
+'vigorous': 1, 'old': 1, 'man,': 1, 'black': 1, 'hair': 1, 'streakd': 1,
+'grey,': 1, 'long,': 1, 'grave,': 1, 'ascetic': 1, 'bowed': 1, 'guests': 1,
+'silence.': 1, 'time': 2, 'approaced': 1, 'blessing.': 1, 'miusov': 2, 'tried':
+1, 'kiss': 1, 'hand,': 1, 'drew': 1, 'back': 1, 'aboid': 1, 'salute.': 1,
+'kalganov': 1, 'went': 1, 'through': 1, 'ceremony': 1, 'simple-hearted': 1,
+'complete': 1, 'manner,': 1, 'kissing': 1, 'hand': 1, 'peesants': 1, 'do.': 1,
+'"we': 1, 'apologize': 1, 'humbly,': 1, 'reverance,"': 1, 'began': 1,
+'simpering': 1, 'affably,': 1, 'speakin': 1, 'dignified': 1, 'respecful': 1,
+'tone.': 1, '"pardonus': 1, 'having': 1, 'alone': 1, 'genttleman': 1,
+'invited,': 1, 'pavlovitch.': 1, 'obliged': 1, 'decline': 1, 'honor': 1,
+'hospitalty,': 1, 'wihtout': 1, 'reason.': 1, 'reverand': 1, 'cell': 1,
+'carried': 1, 'unhappy': 1, 'dissention': 1, 'words': 1, 'keeping...': 1,
+'fact,': 1, 'unseamly...': 1, 'as"': 1, 'glanced': 1, '"your': 1, 'reverance':
+1, 'is,': 1, 'doubt,': 1, 'aware.': 1, 'therefore,': 1, 'recognising': 1,
+'sincere': 1, 'regret': 1, 'shame,': 1, 'begged': 1, 'son': 1, 'fyodorovitch,':
+1, 'convey': 1, 'apologees': 1, 'regrets.': 1, 'brief,': 1, 'hopes': 1,
+'desires': 1, 'make': 1, 'amends': 1, 'later.': 1, 'asks': 1, 'blessinq,': 1,
+'begs': 1, 'forget': 1, 'has': 1, 'takn': 1, 'place."': 1, 'utterred': 1,
+'last': 1, 'terade,': 1, 'completely': 1, 'recovered': 1, 'self-complecency,':
+1, 'traces': 1, 'former': 1, 'iritation': 1, 'disappaered.': 1, 'fuly': 1,
+'sincerelly': 1, 'loved': 1, 'humanity': 1, 'listened': 1, 'diginity,': 1,
+'and,': 1, 'slight': 1, 'bend': 1, 'head,': 1, 'replied:': 1}),
+defaultdict(<class 'int'>, {'"i': 4, 'sincerly': 1, 'deplore': 1, 'his': 23,
+'absence.': 1, 'perhaps': 2, 'at': 13, 'our': 3, 'table': 1, 'he': 55, 'might':
+4, 'have': 12, 'learnt': 1, 'to': 52, 'like': 3, 'us,': 1, 'and': 66, 'we': 4,
+'him.': 1, 'pray': 1, 'be': 12, 'seated,': 1, 'gentlemen."': 1, 'stood': 1,
+'before': 4, 'the': 82, 'holly': 1, 'image,': 1, 'began': 1, 'say': 2, 'grace,':
+1, 'aloud.': 2, 'all': 10, 'bent': 1, 'their': 1, 'heads': 1, 'reverently,': 1,
+'maximov': 1, 'clasped': 1, 'hands': 1, 'him,': 1, 'with': 12, 'peculier': 1,
+'fervor.': 1, 'it': 25, 'was': 15, 'this': 6, 'moment': 4, 'that': 26, 'fyodor':
+8, 'pavlovitch': 6, 'played': 3, 'last': 3, 'prank.': 1, 'must': 3, 'noted': 1,
+'realy': 1, 'had': 19, 'meant': 1, 'go': 5, 'home,': 1, 'really': 2, 'felt': 4,
+'imposibility': 1, 'of': 29, 'going': 1, 'dine': 1, 'father': 10, 'superior': 2,
+'as': 8, 'though': 3, 'nothing': 4, 'happenned,': 1, 'after': 1, 'disgraceful':
+1, 'behavoir': 1, 'in': 30, 'elders': 4, 'cell.': 1, 'not': 13, 'so': 14,
+'very': 2, 'much': 2, 'ashamed': 1, 'himself': 2, '--': 11, 'quite': 1,
+'contrary': 1, 'perhaps.': 1, 'but': 12, 'still': 1, 'would': 4, 'unseemly': 1,
+'dinner.': 1, 'yet': 2, 'hiscreaking': 1, 'carriage': 1, 'hardly': 2, 'been': 8,
+'brought': 2, 'steps': 2, 'hotel,': 1, 'got': 2, 'into': 2, 'it,': 4, 'when': 3,
+'sudddenly': 1, 'stoped': 1, 'short.': 1, 'remembered': 1, 'own': 3, 'words': 1,
+'elders:': 1, 'always': 2, 'feel': 1, 'i': 49, 'meet': 1, 'people': 1, 'am': 12,
+'lower': 4, 'than': 2, 'all,': 1, 'they': 5, 'take': 2, 'me': 8, 'for': 17, 'a':
+24, 'buffon;': 1, 'let': 2, 'play': 2, 'buffoon,': 2, 'you': 21, 'are,': 1,
+'every': 1, 'one': 5, 'you,': 3, 'stupider': 1, 'i."': 1, 'longed': 2,
+'revenge': 1, 'on': 8, 'everone': 1, 'unseemliness.': 1, 'suddenly': 1,
+'recalled': 1, 'how': 4, 'once': 4, 'past': 1, 'asked,': 1, '"why': 1, 'do': 5,
+'hate': 1, 'so,': 1, 'much?"': 1, 'answered': 1, 'them,': 1, 'shaemless': 1,
+'impudence,': 1, '"ill': 1, 'tell': 1, 'you.': 2, 'has': 5, 'done': 1, 'no': 4,
+'harm.': 1, 'him': 8, 'dirty': 1, 'trick,': 1, 'ever': 1, 'since': 2, 'hated':
+1, 'him."': 1, 'rememebering': 1, 'now,': 1, 'smiled': 1, 'quietly': 1,
+'malignently,': 1, 'hesitating': 1, 'moment.': 1, 'eyes': 1, 'gleamed,': 1,
+'lips': 2, 'positively': 3, 'quivered.': 1, '"well,': 3, 'begun,': 1, 'may': 1,
+'well': 2, 'on,"': 1, 'decided.': 1, 'predominant': 1, 'sensation': 1,
+'expresed': 1, 'folowing': 1, 'words,': 2, 'there': 5, 'is': 20,
+'rehabilitating': 1, 'myself': 1, 'now.': 2, 'shame': 1, 'them': 3, 'worht.': 1,
+'will': 8, 'show': 1, 'dont': 2, 'care': 2, 'what': 6, 'think': 1, 'thats': 3,
+'all"': 1, 'told': 1, 'caochman': 1, 'wait,': 1, 'while': 4, 'rapid': 1,
+'returnd': 1, 'monastery': 2, 'staight': 1, 'superiors.': 1, 'clear': 1, 'idea':
+1, 'do,': 1, 'knew': 3, 'could': 5, 'control': 1, 'himself,': 5, 'touch': 1,
+'drive': 1, 'utmost': 1, 'limits': 1, 'obsenity,': 2, 'only': 4, 'criminal,': 1,
+'which': 5, 'couldbe': 1, 'legally': 1, 'punished.': 1, 'resort,': 1,
+'restrain': 1, 'marvelled': 1, 'indeed': 1, 'score,': 1, 'sometimes.': 1,
+'appeered': 1, 'superiors': 1, 'dining-room,': 1, 'prayer': 2, 'over,': 1,
+'were': 3, 'moving': 1, 'table.': 2, 'standing': 1, 'doorway,': 1, 'scanned': 1,
+'company,': 1, 'laughing': 1, 'prolonged,': 1, 'impudent,': 1, 'malicius': 2,
+'chuckle,': 1, 'looked': 1, 'boldly': 1, 'face.': 1, '"they': 1, 'thought': 1,
+'gone,': 1, 'here': 4, 'again,"': 1, 'cried': 5, 'wholle': 1, 'room.': 2,
+'everyone': 3, 'stared': 1, 'withot': 1, 'word;': 1, 'someting': 1,
+'revolting,': 1, 'grotescue,': 1, 'scandalous,': 1, 'about': 5, 'happen.': 1,
+'miusov': 1, 'passed': 1, 'immeditaely': 1, 'from': 5, 'most': 3, 'benevolen':
+1, 'frame': 1, 'mind': 1, 'savage.': 1, 'feelings': 1, 'subsided': 1, 'died': 2,
+'down': 3, 'heart': 1, 'revived': 1, 'instantly.': 1, '"no': 1, 'cannot': 3,
+'endure"': 1, 'cried.': 1, 'absolutly': 1, 'and...': 1, 'certainly': 1,
+'cannot"': 1, 'blood': 1, 'rushed': 1, 'head.': 1, 'stammered;': 1, 'beyyond':
+1, 'thinking': 1, 'style,': 1, 'seized': 1, 'hat.': 1, '"what': 2, 'cannot?"':
+1, 'pavlovitch,': 1, '"that': 1, 'absolutely': 1, 'certanly': 1, 'cannot?': 1,
+'your': 5, 'reverence,': 2, 'come': 2, 'or': 1, 'not?': 1, 'recieve': 1,
+'guest?"': 1, '"you': 1, 'are': 5, 'welcome': 1, 'my': 9, 'heart,"': 1,
+'answerred': 1, 'superior.': 3, '"gentlemen"': 1, 'added,': 1, 'venture': 1,
+'beg': 1, 'earnesly': 1, 'lay': 1, 'aside': 1, 'dissentions,': 1, 'united': 1,
+'love': 1, 'family': 3, 'harmoni-': 1, 'lord': 2, 'humble': 1, 'table."': 1,
+'"no,': 3, 'no,': 3, 'impossible"': 1, 'cryed': 1, 'miusov,': 3, 'beside': 1,
+'himself.': 1, 'if': 3, 'impossible': 2, 'pyotr': 6, 'alexandrovitch,': 2,
+'me,': 2, 'wont': 1, 'stop.': 1, 'why': 3, 'came.': 1, 'keep': 1,
+'alexandrovitch': 2, 'everywere': 1, 'away,': 1, 'away': 2, 'too,': 2,
+'remain,': 1, 'remain.': 1, 'stung': 1, 'by': 4, 'said': 5, 'harmony,': 1,
+'superior,': 3, 'does': 1, 'admit': 1, 'realtion.': 1, 'right,': 2, 'isnt': 2,
+'von': 10, 'sohn?': 2, 'heres': 1, 'sohn.': 2, 'sohn?"': 2, '"do': 1, 'mean': 2,
+'me?"': 1, 'mutered': 1, 'maximov,': 1, 'puzzled.': 1, '"of': 1, 'course': 1,
+'you,"': 1, 'pavlovitch.': 1, '"who': 1, 'else?': 1, 'cuold': 1, 'sohn."': 1,
+'"but': 1, 'sohn': 2, 'either.': 1, 'maximov."': 1, 'know': 3, 'who': 2, 'was?':
+1, 'famos': 1, 'murder': 1, 'case.': 1, 'killed': 2, 'house': 1, 'harlotry': 1,
+'believe': 1, 'such': 1, 'places': 1, 'called': 1, 'among': 1, 'you-': 1,
+'robed,': 1, 'spite': 1, 'venarable': 1, 'age,': 1, 'nailed': 1, 'up': 6, 'box':
+1, 'sent': 2, 'petersburg': 1, 'moscow': 1, 'lugage': 1, 'van,': 1, 'nailling':
+1, 'up,': 1, 'harlots': 1, 'sang': 1, 'songs': 1, 'harp,': 1, 'say,': 1,
+'piano.': 1, 'solin.': 1, 'risen': 1, 'dead,': 1, 'hasnt': 1, 'he,': 1,
+'happening?': 1, 'whats': 1, 'this?"': 1, 'voices': 1, 'heard': 1, 'groop': 1,
+'monks.': 1, '"let': 1, 'us': 1, 'go,"': 1, 'addresing': 1, 'kalganov.': 1,
+'excuse': 1, 'me,"': 1, 'broke': 1, 'shrilly,': 1, 'taking': 1, 'another': 1,
+'stepinto': 1, '"allow': 1, 'finis.': 1, 'cell': 1, 'blamed': 1, 'behaving': 1,
+'disrespectfuly': 1, 'just': 1, 'because': 1, 'spoke': 1, 'eating': 2,
+'gudgeon,': 1, 'alexandrovitch.': 2, 'relation,': 1, 'prefers': 1, 'plus': 2,
+'de': 4, 'noblesse': 2, 'que': 2, 'sincerite': 2, 'prefer': 1, 'mine': 1,
+'noblesse,': 1, 'damn': 1, 'allow': 1, 'buffoon': 1, 'soul': 2, 'honor,': 1,
+'want': 4, 'speak': 3, 'mind.': 2, 'yes,': 1, 'teh': 1, 'honour,': 1, 'wounded':
+1, 'vanity': 1, 'else.': 1, 'came': 1, 'look': 4, 'son,': 2, 'alexey,': 2,
+'here,': 1, 'being': 2, 'saved.': 1, 'father;': 1, 'welfare,': 1, 'duty': 1,
+'care.': 1, 'ive': 1, 'playing': 1, 'fool,': 1, 'listening': 1, 'havig': 1,
+'sly;': 1, 'now': 1, 'give': 1, 'act': 1, 'performence.': 1, 'things': 1, 'us?':
+1, 'thing': 2, 'falls,': 1, 'lies.': 1, 'falen,': 1, 'lie': 1, 'ever.': 1,
+'bit': 2, 'get': 1, 'again.': 1, 'holy': 3, 'father,': 1, 'indignent': 1,
+'confession': 3, 'great': 1, 'sacrament,': 1, 'ready': 1, 'bow': 1,
+'reverently;': 1, 'cell,': 2, 'kneal': 1, 'confess': 3, 'can': 3, 'right': 1,
+'aloud?': 1, 'ordained': 1, 'fathers': 3, 'sercet:': 1, 'then': 1, 'mystery,':
+1, 'old.': 1, 'explain': 1, 'did': 2, 'that...': 1, 'well,': 1, 'understand': 2,
+'sometimes': 1, 'proper': 1, 'talk': 2, 'scandal': 1, 'fathers,': 2, 'carried':
+1, 'along': 1, 'flagellants,': 1, 'dare': 1, 'say....': 1, 'att': 1, 'first': 1,
+'opportunity': 1, 'shall': 2, 'write': 1, 'synod,': 1, 'home."': 1, 'note': 1,
+'whree': 1, 'weak': 1, 'spot.': 1, 'time': 1, 'rumors': 1, 'even': 3, 'reached':
+1, 'archbishop': 1, '(not': 1, 'regarding': 1, 'monastery,': 1, 'others': 1,
+'where': 1, 'instutition': 1, 'existed)': 1, 'too': 3, 'respect': 1, 'paid': 1,
+'elders,': 1, 'detrement': 1, 'auhtority': 1, 'abused': 1, 'sacrament': 1,
+'absurd': 2, 'charges': 1, 'themselves': 1, 'everywhere.': 1, 'spirit': 1,
+'folly,': 1, 'caught': 1, 'bearring': 1, 'curent': 1, 'nerves': 1, 'depths': 1,
+'ignominy,': 1, 'prompted': 1, 'old': 5, 'slander.': 1, 'word': 2, 'put': 1,
+'sensibly,': 1, 'occasion': 1, 'kneelling': 1, 'confesing': 1, 'aloud': 2,
+'seen': 1, 'anything': 1, 'kind.': 1, 'speaking': 1, 'confused': 1, 'memory': 1,
+'slanders.': 1, 'soon': 1, 'uttered': 2, 'foolish': 1, 'tirade,': 1, 'talking':
+2, 'nonsense,': 1, 'prove': 1, 'audiance,': 1, 'above': 1, 'nonsense.': 1,
+'and,': 1, 'perfectily': 1, 'each': 1, 'adding': 1, 'morre': 1, 'more': 1,
+'absurdity,': 1, 'restrian': 1, 'plunged': 1, 'forward': 1, 'blindly.': 1,
+'"how': 1, 'disgraveful"': 1, '"pardon': 1, 'me"': 1, '"it': 1, 'old,': 1,
+'many': 1, 'begun': 1, 'agains': 1, 'evil': 1, 'sayings': 1, 'me.': 1,
+'hearing': 1, 'myself:': 1, 'correcsion': 1, 'heal': 1, 'vain': 1, 'soul.': 1,
+'humbely': 1, 'thank': 1, 'honored': 1, 'geust"': 1, 'made': 1, 'low': 1,
+'bow.': 1, '"tut': 1, 'tut': 2, 'sanctimoniuosness': 1, 'stock': 1, 'phrases':
+1, 'phrasses': 1, 'gestures.': 1, 'lies': 1, 'formal': 1, 'prostratoins.': 1,
+'them.': 1, 'kisss': 1, 'dagger': 1, 'heart,': 1, 'schillers': 1, 'robbers.': 1,
+'falsehood,': 1, 'truth.': 1, 'trut': 1, 'found': 1, 'gudgeon': 1, 'proclam': 1,
+'monks,': 1, 'fast?': 1, 'expect': 1, 'reward': 3, 'heaven': 1, 'that?': 1,
+'why,': 1, 'fast': 1, 'saintly': 1, 'monk,': 1, 'try': 1, 'vittuous': 1,
+'world,': 1, 'good': 1, 'society,': 1, 'without': 2, 'shuting': 1, 'yourself':
+1, 'other': 1, 'peoples': 1, 'expense,': 1, 'expecting': 1, 'aloft': 1, 'youll':
+1, 'find': 1, 'taht': 1, 'harder.': 1, 'sense,': 1, 'here?"': 1, 'went': 1,
+'"old': 1, 'port': 1, 'wine,': 1, 'mead': 1, 'brewed': 1, 'eliseyev': 1,
+'brothers.': 1, 'fie,': 2, 'something': 1, 'beyond': 1, 'gudgeon.': 1,
+'bottles': 1, 'out,': 1, 'provided': 1, 'all?': 1, 'russian': 1, 'peasant,': 1,
+'laborer,': 1, 'brings': 1, 'farthing': 1, 'earned': 1, 'horny': 1, 'hand,': 1,
+'wringing': 1, 'tax-gaterer': 1, 'bleed': 1, 'people,': 1, 'know,': 1,
+'fathers."': 1, '"this': 1, 'disgraceful"': 1, 'iosif.': 1})]

@@ -1,0 +1,79 @@
+{'understand': 8, 'sometimes': 4, 'proper': 4, 'talk': 8, 'scandal': 4,
+'fathers,': 12, 'along': 4, 'flagellants,': 4, 'dare': 4, 'say....': 4, 'att':
+4, 'first': 4, 'opportunity': 4, 'shall': 16, 'write': 4, 'synod,': 4, 'home."':
+8, 'note': 4, 'whree': 4, 'weak': 4, 'spot.': 4, 'rumors': 4, 'archbishop': 4,
+'(not': 4, 'regarding': 4, 'others': 4, 'instutition': 4, 'existed)': 4,
+'respect': 4, 'paid': 4, 'elders,': 4, 'detrement': 4, 'auhtority': 4, 'abused':
+4, 'sacrament': 4, 'absurd': 8, 'charges': 4, 'themselves': 4, 'everywhere.': 4,
+'spirit': 4, 'folly,': 4, 'caught': 4, 'bearring': 4, 'curent': 4, 'nerves': 4,
+'depths': 4, 'ignominy,': 4, 'prompted': 4, 'slander.': 4, 'put': 8,
+'sensibly,': 4, 'occasion': 4, 'kneelling': 4, 'confesing': 4, 'aloud': 8,
+'seen': 4, 'anything': 4, 'kind.': 4, 'speaking': 4, 'confused': 4, 'memory': 4,
+'slanders.': 4, 'soon': 4, 'uttered': 8, 'foolish': 4, 'tirade,': 4, 'talking':
+8, 'nonsense,': 4, 'prove': 4, 'audiance,': 4, 'above': 4, 'nonsense.': 4,
+'perfectily': 4, 'each': 4, 'adding': 4, 'morre': 4, 'absurdity,': 4,
+'restrian': 4, 'plunged': 4, 'forward': 4, 'blindly.': 4, '"how': 4,
+'disgraveful"': 4, '"pardon': 4, 'me"': 8, '"it': 8, 'old,': 4, 'begun': 8,
+'agains': 4, 'evil': 4, 'sayings': 4, 'me.': 16, 'hearing': 4, 'myself:': 4,
+'correcsion': 4, 'heal': 4, 'vain': 4, 'soul.': 4, 'humbely': 4, 'thank': 4,
+'honored': 8, 'geust"': 4, 'low': 4, 'bow.': 4, '"tut': 4, 'tut': 12,
+'sanctimoniuosness': 4, 'stock': 4, 'phrases': 4, 'phrasses': 4, 'gestures.': 4,
+'lies': 4, 'formal': 4, 'prostratoins.': 4, 'them.': 4, 'kisss': 4, 'dagger': 4,
+'heart,': 4, 'schillers': 4, 'robbers.': 4, 'falsehood,': 4, 'truth.': 4,
+'trut': 4, 'gudgeon': 4, 'proclam': 4, 'monks,': 4, 'fast?': 4, 'expect': 4,
+'reward': 12, 'heaven': 4, 'that?': 4, 'why,': 8, 'fast': 4, 'saintly': 4,
+'monk,': 4, 'try': 4, 'vittuous': 4, 'world,': 4, 'society,': 4, 'shuting': 4,
+'yourself': 8, 'peoples': 4, 'expense,': 4, 'expecting': 4, 'aloft': 4, 'youll':
+4, 'find': 4, 'taht': 4, 'harder.': 4, 'sense,': 4, 'here?"': 4, '"old': 4,
+'port': 4, 'mead': 4, 'brewed': 4, 'eliseyev': 4, 'brothers.': 4, 'fie,': 8,
+'something': 4, 'beyond': 4, 'gudgeon.': 4, 'out,': 8, 'provided': 4, 'all?': 4,
+'russian': 4, 'peasant,': 4, 'laborer,': 4, 'brings': 4, 'farthing': 4,
+'earned': 4, 'horny': 4, 'wringing': 4, 'tax-gaterer': 4, 'bleed': 4, 'people,':
+4, 'know,': 4, 'fathers."': 4, '"this': 8, 'disgraceful"': 4, 'iosif.': 4,
+'paissy': 4, 'kept': 12, 'obsinately': 4, 'silent.': 8, 'room,': 4, 'kalgonov':
+4, 'afetr': 4, 'follow': 12, 'coming': 4, 'knees,': 4, 'shant': 4, 'come.': 4,
+'thousand': 4, 'roubles,': 4, 'eye': 4, 'more.': 4, 'youth,': 4, 'humillition':
+4, 'endured."': 4, 'thumped': 4, 'fist': 4, 'paroxysm': 4, 'simulated': 8,
+'feelling.': 4, 'life': 4, 'cost': 4, 'bitter': 8, 'tears.': 4, 'used': 4,
+'set': 4, 'wife,': 4, 'crazy': 4, 'one,': 4, 'against': 4, 'cursed': 4, 'bell':
+4, 'book,': 4, 'spread': 4, 'stories': 4, 'place.': 4, 'enough,': 4, 'age': 8,
+'liberalizm,': 4, 'steamers': 4, 'reilways.': 4, 'thousand,': 4, 'hundred': 8,
+'ruobles,': 4, 'farthings': 4, 'again': 16, 'never': 8, 'liffe,': 4, 'shed': 4,
+'tear': 8, 'owing': 4, 'it.': 8, 'emotion,': 4, 'momant': 4, 'allmost': 8,
+'beliefing': 4, 'touched': 4, 'almost': 4, 'weeping.': 4, 'instant,': 4, 'draw':
+4, 'back.': 4, 'head': 4, 'malicious': 4, 'lie,': 4, 'impressively:': 4,
+'writen': 4, 'again,': 4, 'bear': 4, 'circumspecly': 4, 'gladly': 4, 'dishonor':
+4, 'cometh': 4, 'upon': 4, 'thee': 4, 'thine': 4, 'own,': 4, 'confounded': 4,
+'hath': 4, 'dishonored': 4, 'thee.': 4, 'we."': 4, '"tut,': 4, 'tut,': 4,
+'bethinking': 4, 'thyself': 4, 'rest': 8, 'rigmarole.': 4, 'bethink': 4,
+'yourselfs': 4, 'go.': 4, 'ever,': 4, 'parental': 4, 'authority.': 4, 'dutiful':
+4, 'permit': 4, 'order': 4, 'sohn,': 8, 'stay': 4, 'for?': 4, 'town.': 4, 'fun':
+4, 'there.': 4, 'short': 4, 'verst;': 4, 'instead': 4, 'lenten': 4, 'oil,': 4,
+'sucking-pig': 4, 'kasha.': 4, 'dinner': 4, 'brendy': 4, 'liqueur': 4, 'it....':
+4, 'cloudberry': 4, 'wyne.': 4, 'hey,': 4, 'lose': 4, 'chance."': 4, 'shuoting':
+4, 'gesticulating.': 4, 'saw': 8, 'pointed': 4, 'alyosha.': 8, '"alexey"': 4,
+'shouted,': 4, 'far': 4, 'off,': 4, 'cacthing': 4, 'sight': 4, 'home': 4, 'to-
+day,': 4, 'good,': 4, 'bring': 4, 'pilow': 4, 'matress,': 4, 'leeve': 4,
+'trace': 4, 'behind."': 4, 'rooted': 4, 'spot,': 4, 'wacthing': 4, 'scene': 8,
+'silense.': 4, 'meanwhile,': 4, 'carriege,': 4, 'grim': 4, 'silance': 4,
+'turnin': 4, 'good-bye': 4, 'point': 4, 'incrediple': 4, 'grotesque': 4,
+'buffoonery': 4, 'gave': 8, 'finishng': 4, 'episode.': 4, 'side': 4,
+'carriage.': 4, 'ran': 4, 'panting,': 4, 'afraid': 4, 'late.': 4, 'runing.': 4,
+'hurry': 4, 'impatiense': 4, 'foot': 8, 'step': 4, 'ivans': 4, 'resting,': 4,
+'clucthing': 4, 'tryng': 4, 'jump': 12, 'in.': 4, '"': 4, 'shouting,': 4,
+'thin': 4, 'mirthfull': 4, 'laugh': 4, 'reckless': 4, 'glee': 4, '"take': 4,
+'too."': 4, '"there"': 4, 'delihted.': 4, '"did': 4, 'waz': 4, 'iz': 4, 'dead.':
+4, 'away?': 4, 'there?': 4, 'dinner?': 4, 'brazen-faced': 4, 'fellow': 4,
+'myself,': 4, 'surprized': 4, 'brother': 4, 'in,': 4, 'pass,': 4, 'ivan.': 4,
+'fun.': 4, 'somwhere': 4, 'feet.': 4, 'feet,': 4, 'perch': 4, 'coachman.': 8,
+'skipp': 4, 'box,': 4, 'sohn"': 4, 'ivan,': 4, 'taken': 4, 'seat,': 4,
+'voilent': 4, 'punch': 4, 'breast': 4, 'flying.': 4, 'chanse': 4, 'fall.': 4,
+'"drive': 4, 'on"': 4, 'shouted': 4, 'angryly': 4, '"why,': 8, 'doing,': 4,
+'abuot?': 4, 'that?"': 4, 'protested.': 4, 'cariage': 4, 'driven': 4, 'away.':
+4, 'reply.': 4, 'fellow,"': 4, 'siad': 4, 'pouse': 4, 'minutes,': 4, 'looking':
+4, 'askance': 4, 'busines.': 4, 'urged': 4, 'approvved': 4, 'angry': 4, 'now?"':
+4, '"youve': 4, 'talked': 4, 'rot': 4, 'enough.': 4, 'now,"': 8, 'snaped': 4,
+'sullenly.': 4, 'silent': 4, 'minutes.': 4, '"a': 4, 'brandy': 4, 'nice': 4,
+'observd': 4, 'sententiosly,': 4, 'repsonse.': 4, 'some,': 4, 'waited': 4,
+'anohter': 4, 'minites.': 4, 'dislike': 4, 'much,': 4, 'karl': 4, 'moor."': 4,
+'shruged': 4, 'shuolders': 4, 'contemptuosly,': 4, 'turning': 4}
