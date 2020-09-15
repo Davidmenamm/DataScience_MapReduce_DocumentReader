@@ -9,6 +9,7 @@ from Reduce import Reduce
 from collections import defaultdict
 from utils import pickleRead, printDefaultDict, objToFile
 import threading
+from pathlib import Path
 
 # Class Coordinator
 
@@ -23,12 +24,14 @@ class Coordinator:
     mapOutputPaths = []
     groupOutputPath = None
     reduOutputPaths = []
+    initialPath = None
     finalPath = f'src/(f)FinalOutput/final.txt'
 
     # constructor
-    def __init__(self):
+    def __init__(self, initialPath):
         Map.mapNumber = 1  # Restart Map Number
         Reduce.reduceNumber = 1  # Restart Reduce Number
+        self.initialPath = initialPath
 
     # Getter and Setter
     def getNumReducer(self):
@@ -48,66 +51,53 @@ class Coordinator:
 
     # Function to create and assign necesary maps reads from txt file
     def assignMaps(self):
-        # open to read file
-        file1 = open(f'src\(a)InitialInput\IncomingText.txt', 'r')
-        # counter
-        countLines = 1
-        countMaps = 1
-        # to save necesary text section for each Map
-        textSection = ''
+        # Print document path
+        extension = Path(self.initialPath).suffix
+        print('extension ', extension)
 
-        # Lock to synchronize threads
-        threadLock = threading.Lock()
+        if extension != '.txt':
+            print('Error! choose an appropriate extension')
+        else:
+            # open to read file
+            file1 = open(self.initialPath, 'r')
+            # counter
+            countLines = 1
+            countMaps = 1
+            # to save necesary text section for each Map
+            textSection = ''
 
-        while True:
-            # Add a line
-            line = file1.readline()
-            textSection = textSection + line
+            # Lock to synchronize threads
+            threadLock = threading.Lock()
 
-            # New map for every assigned num of lines
-            # Assing a new textfile to that Map
-            if (countLines % self.numLines == 0):
-                # write section to text file
-                f = open(f'src/(b)DividedInput/Input_{countMaps}.txt', 'w')
-                f.write(textSection)
-                f.close()
-                countMaps = countMaps + 1
-                # create new Map object and pass the path
-                self.arrMaps.append(Map(f.name, threadLock))
-                textSection = ''
-            # Advance count
-            countLines += 1
+            while True:
+                # Add a line
+                line = file1.readline()
+                textSection = textSection + line
 
-            # if line is empty, stop the reading
-            if not line:
-                if textSection != '':
+                # New map for every assigned num of lines
+                # Assing a new textfile to that Map
+                if (countLines % self.numLines == 0):
                     # write section to text file
                     f = open(f'src/(b)DividedInput/Input_{countMaps}.txt', 'w')
                     f.write(textSection)
                     f.close()
+                    countMaps = countMaps + 1
+                    # create new Map object and pass the path
                     self.arrMaps.append(Map(f.name, threadLock))
-                break
+                    textSection = ''
+                # Advance count
+                countLines += 1
 
-        # In case not minimum maps created
-        # mapLen = len(self.arrMaps)
-        # if mapLen < 6:
-        #     size = 6 - mapLen
-        #     for num in range(size):
-        #         # print(num+mapLen)
-        #         self.arrMaps.append()
-
-    # Function to apply combiners to map outputs
-    # def applyCombiners(self, arrMapOutputs):
-    #     arrCombineOutput = []
-    #     count = 0
-    #     for map in self.arrMaps:
-    #         arrCombineOutput.append(map.combiner(arrMapOutputs[count]))
-    #         count = count + 1
-    #     return arrCombineOutput
-
-    # Function to run maps
-    # Input: Map Objects
-    # Output: array of the dictionary outputs for all the Maps
+                # if line is empty, stop the reading
+                if not line:
+                    if textSection != '':
+                        # write section to text file
+                        f = open(
+                            f'src/(b)DividedInput/Input_{countMaps}.txt', 'w')
+                        f.write(textSection)
+                        f.close()
+                        self.arrMaps.append(Map(f.name, threadLock))
+                    break
 
     def runMaps(self):
         mapOutputs = []

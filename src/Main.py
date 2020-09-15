@@ -6,9 +6,13 @@ from Map import Map
 from GroupByKey import GroupByKey
 from Reduce import Reduce
 from Coordinator import Coordinator
+from tkinter import filedialog as fd
+
+# File dialog to extract file
+filename = fd.askopenfilename()
 
 # Create a new Coordinator instance
-coordinator = Coordinator()
+coordinator = Coordinator(filename)
 
 # 1ST STEP (MAP):
 
