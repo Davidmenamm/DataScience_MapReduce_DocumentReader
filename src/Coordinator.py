@@ -59,7 +59,8 @@ class Coordinator:
             print('Error! choose an appropriate extension')
         else:
             # open to read file
-            file1 = open(self.initialPath, 'r')
+            file1 = open(self.initialPath, encoding="utf-8")
+            print(file1.encoding)
             # counter
             countLines = 1
             countMaps = 1

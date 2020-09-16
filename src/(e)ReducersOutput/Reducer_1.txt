@@ -1,1 +1,0 @@
-<bound method Reduce.getDictResume of <Reduce(Thread-3, stopped 31624)>>
